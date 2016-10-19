@@ -18,14 +18,14 @@ def make_browser(unit_id, treatment_id):
 
 # Control Group treatment
 def control_treatment(unit):
-    unit.visit_sites(site_file_hilary)
-    unit.read_articles(count=5, agency='CNN', keyword='hilary', category='Politics', time_on_site=10)
+    #unit.visit_sites(site_file_hilary)
+    unit.read_articles(count=5, agency='CNN', keyword='hilary', category='Elections', time_on_site=10)
     unit.visit_sites(site_file_education)
 
 # Experimental Group treatment
 def exp_treatment(unit):
-    unit.visit_sites(site_file_trump)
-    unit.read_articles(count=5, agency='CNN', keyword='trump', category='Politics', time_on_site=10)
+    #unit.visit_sites(site_file_trump)
+    unit.read_articles(count=5, agency='CNN', keyword='trump', category='Elections', time_on_site=10)
     unit.visit_sites(site_file_education)
 
 
