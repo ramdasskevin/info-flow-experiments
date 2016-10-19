@@ -2,7 +2,7 @@ import sys
 sys.path.append("../core")          # files from the core 
 import adfisher                     # adfisher wrapper function
 import web.pre_experiment.alexa     # collecting top sites from alexa
-import web.google_ads               # interacting with Google ads and Ad Settings
+import web.google_news               # interacting with Google ads and Ad Settings
 import converter.reader             # read log and create feature vectors
 import analysis.statistics          # statistics for significance testing
 
@@ -12,20 +12,20 @@ site_file_hilary = 'hilary.txt'
 site_file_trump = 'trump.txt'
 
 def make_browser(unit_id, treatment_id):
-    b = web.google_ads.GoogleAdsUnit(browser='firefox', log_file=log_file, unit_id=unit_id, 
-        treatment_id=treatment_id, headless=True, proxy = None)
+    b = web.google_news.GoogleNewsUnit(browser='firefox', log_file=log_file, unit_id=unit_id, 
+        treatment_id=treatment_id, headless=False, proxy = None)
     return b
 
 # Control Group treatment
 def control_treatment(unit):
     unit.visit_sites(site_file_hilary)
-    unit.read articles(count=5, agency=‘CNN’, keyword='hilary', category='Politics', time on site=10)
+    unit.read_articles(count=5, agency='CNN', keyword='hilary', category='Politics', time_on_site=10)
     unit.visit_sites(site_file_education)
 
 # Experimental Group treatment
 def exp_treatment(unit):
     unit.visit_sites(site_file_trump)
-    unit.read articles(count=5, agency=‘CNN’, keyword='trump', category='Politics', time on site=10)
+    unit.read_articles(count=5, agency='CNN', keyword='trump', category='Politics', time_on_site=10)
     unit.visit_sites(site_file_education)
 
 
@@ -55,7 +55,7 @@ def test_stat(observed_values, unit_assignments):
     return analysis.statistics.difference(observed_values, unit_assignments)
 #   return statistics.correctly_classified(observed_values, unit_assignments)
 
-web.pre_experiment.alexa.collect_sites(make_browser, num_sites=50, output_file=site_file_education,
+web.pre_experiment.alexa.collect_sites(make_browser, num_sites=10, output_file=site_file_education,
     alexa_link="http://www.alexa.com/topsites/category/Top/Arts/Education")
 
 adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, exp_treatment], 
