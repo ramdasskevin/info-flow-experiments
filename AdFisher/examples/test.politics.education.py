@@ -33,7 +33,7 @@ def exp_treatment(unit):
 # Measurement - Collects ads
 def measurement(unit):
     unit.collect_ads(reloads=10, delay=5, site='bbc')
-    unit.get_interests()
+    # unit.get_interests()
 
 
 # Shuts down the browser once we are done with it.
