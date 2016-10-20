@@ -1,4 +1,4 @@
-import sys
+import sys, os
 sys.path.append("../core")          # files from the core 
 import adfisher                     # adfisher wrapper function
 import web.pre_experiment.alexa     # collecting top sites from alexa
