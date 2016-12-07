@@ -30,7 +30,9 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
     def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None, keywords_filename=None):
         google_search.GoogleSearchUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
         if keywords_filename:
-            self.keywords = [word.replace('\n', '') for word in open(keywords_filename)]
+            self.keywords = [word.replace('\n', '').lower() for word in open(keywords_filename)]
+        else:
+            self.keywords = []
 #         browser_unit.BrowserUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
 
     def collect_ads(self, reloads, delay, site, file_name=None):
@@ -100,8 +102,14 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
             b = ps[0].get_attribute('innerHTML')
             l = ps[1].find_element_by_css_selector("a").get_attribute('innerHTML')
             ad = strip_tags(tim+"@|"+t+"@|"+l+"@|"+b).encode("utf8")
-            self.log('measurement', 'ad', ad)
-
+            if self.keywords:
+                for keyword in self.keywords:
+                    ad_lower = ad.lower()
+                    if keyword in ad_lower:
+                        self.log('measurement', 'ad', ad)
+                        break
+            else:
+                self.log('measurement', 'ad', ad)
 
     def save_ads_monster(self, file):
         driver = self.driver

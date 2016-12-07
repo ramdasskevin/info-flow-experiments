@@ -29,7 +29,7 @@ class GoogleNewsUnit(google_ads.GoogleAdsUnit):
 
     def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None, keywords_filename=None):
 #         google_search.GoogleSearchUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
-        google_ads.GoogleAdsUnit.__init__(self, browser, log_file, unit_id, treatment_id, proxy=proxy)
+        google_ads.GoogleAdsUnit.__init__(self, browser, log_file, unit_id, treatment_id, proxy=proxy, keywords_filename=keywords_filename)
 #       browser_unit.BrowserUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
     
     def get_topstories(self):

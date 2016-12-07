@@ -11,7 +11,7 @@ site_file_politics = 'politics.txt'
 
 def make_browser(unit_id, treatment_id):
     b = web.google_news.GoogleNewsUnit(browser='chrome', log_file=log_file, unit_id=unit_id,
-        treatment_id=treatment_id, headless=False, proxy=None)
+        treatment_id=treatment_id, headless=False, proxy=None, keyword_filename='keywords.txt')
     return b
 
 web.pre_experiment.alexa.collect_sites(make_browser, num_sites=15, output_file=site_file_politics,
@@ -56,6 +56,6 @@ def test_stat(observed_values, unit_assignments):
 adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, exp_treatment], 
                         measurement=measurement, end_unit=cleanup_browser,
                         load_results=load_results, test_stat=test_stat, ml_analysis=True, 
-                        num_blocks=50, num_units=4, timeout=2000,
+                        num_blocks=14, num_units=2, timeout=2000,
                         log_file=log_file,
                         treatment_names=["control ()", "experimental (politics)"])
