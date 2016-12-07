@@ -6,44 +6,28 @@ import web.google_news               # interacting with Google ads and Ad Settin
 import converter.reader             # read log and create feature vectors
 import analysis.statistics          # statistics for significance testing
 
-log_file = 'log.politics.education.txt'
-site_file_education = 'education.txt'
-site_file_jobs = 'jobs.txt'
-site_file_dating = 'dating.txt'
-site_file_hilary = 'hilary.txt'
-site_file_trump = 'trump.txt'
-
+log_file = 'log.politics.txt'
+site_file_politics = 'politics.txt'
 
 def make_browser(unit_id, treatment_id):
     b = web.google_news.GoogleNewsUnit(browser='chrome', log_file=log_file, unit_id=unit_id,
         treatment_id=treatment_id, headless=False, proxy=None)
     return b
 
-web.pre_experiment.alexa.collect_sites(make_browser, num_sites=10, output_file=site_file_education,
-    alexa_link="http://www.alexa.com/topsites/category/Top/Arts/Education")
-
-web.pre_experiment.alexa.collect_sites(make_browser, num_sites=10, output_file=site_file_trump,
-    alexa_link="http://www.alexa.com/topsites/category/Regional/North_America/United_States/Society_and_Culture/Politics/Candidates_and_Campaigns/President/Candidates/Donald_Trump")
-
-# web.pre_experiment.alexa.collect_sites(make_browser, num_sites=5, output_file=site_file_jobs,
-#     alexa_link="http://www.alexa.com/topsites/category/Business/Employment")
-#
-# web.pre_experiment.alexa.collect_sites(make_browser, num_sites=5, output_file=site_file_dating,
-#     alexa_link="http://www.alexa.com/topsites/category/Society/Relationships/Dating")
+web.pre_experiment.alexa.collect_sites(make_browser, num_sites=15, output_file=site_file_politics,
+    alexa_link="http://www.alexa.com/topsites/category/Top/Society/Politics/Nationalism")
 
 
 # Control Group treatment
 def control_treatment(unit):
-    unit.visit_sites(site_file_hilary)
-    unit.read_articles(count=5, agency='CNN', keyword='hilary', category='Elections', time_on_site=5)
-    unit.visit_sites(site_file_education)
+    pass
 
 
 # Experimental Group treatment
 def exp_treatment(unit):
-    unit.visit_sites(site_file_trump)
-    unit.read_articles(count=5, agency='CNN', keyword='trump', category='Elections', time_on_site=5)
-    unit.visit_sites(site_file_education)
+    unit.visit_sites(site_file_politics)
+    # unit.read_articles(count=5, agency='CNN', category='Elections', time_on_site=5)
+
 
 # Measurement - Collects ads
 def measurement(unit):
@@ -72,6 +56,6 @@ def test_stat(observed_values, unit_assignments):
 adfisher.do_experiment(make_unit=make_browser, treatments=[control_treatment, exp_treatment], 
                         measurement=measurement, end_unit=cleanup_browser,
                         load_results=load_results, test_stat=test_stat, ml_analysis=True, 
-                        num_blocks=20, num_units=2, timeout=2000,
+                        num_blocks=50, num_units=4, timeout=2000,
                         log_file=log_file,
-                        treatment_names=["control (hilary)", "experimental (trump)"])
+                        treatment_names=["control ()", "experimental (politics)"])

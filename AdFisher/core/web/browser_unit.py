@@ -54,6 +54,7 @@ class BrowserUnit:
             chrome_option = webdriver.ChromeOptions()
             if(proxy != None):
                 chrome_option.add_argument("--proxy-server="+proxy)
+                chrome_option.add_argument("--disable-bundled-ppapi-flash")
             self.driver = webdriver.Chrome(executable_path=chromedriver, chrome_options=chrome_option)
         else:
             print "Unsupported Browser"

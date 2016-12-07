@@ -30,8 +30,8 @@ def strip_tags(html):
 
 class ExposureSitesUnit(google_ads.GoogleAdsUnit):
 
-    def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None):
-        google_ads.GoogleAdsUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
+    def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None, keywords_filename=None):
+        google_ads.GoogleAdsUnit.__init__(self, browser, log_file, unit_id, treatment_id, proxy=proxy)
 #         browser_unit.BrowserUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
         
     def login_dailystrength(self, username, password):

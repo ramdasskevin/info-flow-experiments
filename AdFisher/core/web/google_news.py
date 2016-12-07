@@ -27,9 +27,9 @@ def strip_tags(html):
 
 class GoogleNewsUnit(google_ads.GoogleAdsUnit):
 
-    def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None):
+    def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None, keywords_filename=None):
 #         google_search.GoogleSearchUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
-        google_ads.GoogleAdsUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
+        google_ads.GoogleAdsUnit.__init__(self, browser, log_file, unit_id, treatment_id, proxy=proxy)
 #       browser_unit.BrowserUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
     
     def get_topstories(self):

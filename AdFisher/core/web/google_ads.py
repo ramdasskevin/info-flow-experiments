@@ -27,8 +27,10 @@ def strip_tags(html):
 
 class GoogleAdsUnit(google_search.GoogleSearchUnit):
 
-    def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None):
+    def __init__(self, browser, log_file, unit_id, treatment_id, headless=False, proxy=None, keywords_filename=None):
         google_search.GoogleSearchUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
+        if keywords_filename:
+            self.keywords = [word.replace('\n', '') for word in open(keywords_filename)]
 #         browser_unit.BrowserUnit.__init__(self, browser, log_file, unit_id, treatment_id, headless, proxy=proxy)
 
     def collect_ads(self, reloads, delay, site, file_name=None):
