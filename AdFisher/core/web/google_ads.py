@@ -103,8 +103,8 @@ class GoogleAdsUnit(google_search.GoogleSearchUnit):
             l = ps[1].find_element_by_css_selector("a").get_attribute('innerHTML')
             ad = strip_tags(tim+"@|"+t+"@|"+l+"@|"+b).encode("utf8")
             if self.keywords:
+                ad_lower = ad.lower()
                 for keyword in self.keywords:
-                    ad_lower = ad.lower()
                     if keyword in ad_lower:
                         self.log('measurement', 'ad', ad)
                         break
