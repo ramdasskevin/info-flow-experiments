@@ -1,0 +1,1860 @@
+2016-12-07 17:30:18.747410||meta||agents||4
+2016-12-07 17:30:18.747444||meta||treatnames||control ()@|experimental (politics)
+2016-12-07 17:30:18.747550||meta||block_id start||0
+2016-12-07 17:30:18.747562||meta||assignment||2@|1@|0@|3
+2016-12-07 17:30:20.537425||event||progress-marker||training-start||0||1
+2016-12-07 17:30:20.591077||event||progress-marker||training-start||2||0
+2016-12-07 17:30:20.591158||event||progress-marker||training-end||2||0
+2016-12-07 17:30:20.752060||event||progress-marker||training-start||1||0
+2016-12-07 17:30:20.752142||event||progress-marker||training-end||1||0
+2016-12-07 17:30:20.783073||event||progress-marker||training-start||3||1
+2016-12-07 17:30:34.490660||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 17:30:41.248184||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 17:30:42.310661||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 17:30:49.133118||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 17:30:50.686718||treatment||visit website||http://votenet.com||3||1
+2016-12-07 17:30:59.069261||treatment||visit website||http://votenet.com||0||1
+2016-12-07 17:31:03.082645||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 17:31:09.934638||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 17:31:11.847992||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 17:31:18.490651||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 17:31:26.134640||treatment||visit website||http://ifes.org||3||1
+2016-12-07 17:31:31.964853||treatment||visit website||http://ifes.org||0||1
+2016-12-07 17:31:33.762643||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 17:31:39.563171||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 17:31:47.086476||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 17:31:52.161150||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 17:32:10.634473||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 17:32:15.706810||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 17:32:17.126684||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 17:32:22.134718||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 17:32:28.348240||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 17:32:34.378702||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 17:32:38.429711||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 17:32:42.768251||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 17:32:47.946673||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 17:32:50.798646||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 17:32:55.795839||treatment||visit website||http://onlinecandidate.com||3||1
+2016-12-07 17:32:59.030843||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 17:33:05.006657||treatment||visit website||http://robodial.org||3||1
+2016-12-07 17:33:05.006721||event||progress-marker||training-end||3||1
+2016-12-07 17:33:07.276311||treatment||visit website||http://robodial.org||0||1
+2016-12-07 17:33:07.276378||event||progress-marker||training-end||0||1
+2016-12-07 17:33:10.012205||event||progress-marker||measurement-start||3||1
+2016-12-07 17:33:10.718840||event||progress-marker||measurement-start||2||0
+2016-12-07 17:33:10.879560||event||progress-marker||measurement-start||1||0
+2016-12-07 17:33:12.278841||event||progress-marker||measurement-start||0||1
+2016-12-07 17:33:29.471496||measurement||loadtime||0:00:14.456274||3||1
+2016-12-07 17:33:31.543771||measurement||loadtime||0:00:15.662867||1||0
+2016-12-07 17:33:36.370480||measurement||loadtime||0:00:19.087007||0||1
+2016-12-07 17:33:38.823742||measurement||loadtime||0:00:23.100871||2||0
+2016-12-07 17:33:40.996264||measurement||ad||2016-12-07 17:33:40.478093@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||3||1
+2016-12-07 17:33:41.138844||measurement||ad||2016-12-07 17:33:40.478093@|Why Invest In Commodities@|claimrating.com@|Invest Assets In The Right Index Funds! Learn About Investment Services  Commodities. ||3||1
+2016-12-07 17:33:41.138898||measurement||loadtime||0:00:06.664750||3||1
+2016-12-07 17:33:46.044672||measurement||loadtime||0:00:09.495693||1||0
+2016-12-07 17:33:49.571983||measurement||loadtime||0:00:08.197334||0||1
+2016-12-07 17:33:52.943291||measurement||loadtime||0:00:09.114910||2||0
+2016-12-07 17:33:55.099252||measurement||loadtime||0:00:08.957649||3||1
+2016-12-07 17:33:57.612336||measurement||loadtime||0:00:03.037509||0||1
+2016-12-07 17:33:57.716141||measurement||ad||2016-12-07 17:33:57.562317@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||1||0
+2016-12-07 17:33:57.892780||measurement||loadtime||0:00:06.844955||1||0
+2016-12-07 17:34:05.245880||measurement||ad||2016-12-07 17:34:04.391099@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||2||0
+2016-12-07 17:34:05.694386||measurement||loadtime||0:00:07.747558||2||0
+2016-12-07 17:34:06.616789||measurement||loadtime||0:00:06.513075||3||1
+2016-12-07 17:34:09.168557||measurement||ad||2016-12-07 17:34:09.047335@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||0||1
+2016-12-07 17:34:09.349265||measurement||loadtime||0:00:06.732071||0||1
+2016-12-07 17:34:10.439685||measurement||loadtime||0:00:07.541033||1||0
+2016-12-07 17:34:17.974188||measurement||loadtime||0:00:07.266992||2||0
+2016-12-07 17:34:21.929203||measurement||loadtime||0:00:06.486566||1||0
+2016-12-07 17:34:24.037731||measurement||ad||2016-12-07 17:34:23.926892@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||0||1
+2016-12-07 17:34:24.223208||measurement||loadtime||0:00:09.872573||0||1
+2016-12-07 17:34:31.465046||measurement||loadtime||0:00:04.534382||1||0
+2016-12-07 17:35:11.627334||error||collecting ads||Error||3||1
+2016-12-07 17:35:22.989482||error||collecting ads||Error||2||0
+2016-12-07 17:35:29.239054||error||collecting ads||Error||0||1
+2016-12-07 17:35:36.476451||error||collecting ads||Error||1||0
+2016-12-07 17:36:16.637099||error||collecting ads||Error||3||1
+2016-12-07 17:36:27.998239||error||collecting ads||Error||2||0
+2016-12-07 17:36:34.250251||error||collecting ads||Error||0||1
+2016-12-07 17:36:41.486779||error||collecting ads||Error||1||0
+2016-12-07 17:37:21.645121||error||collecting ads||Error||3||1
+2016-12-07 17:37:33.007771||error||collecting ads||Error||2||0
+2016-12-07 17:37:39.259955||error||collecting ads||Error||0||1
+2016-12-07 17:37:46.495957||error||collecting ads||Error||1||0
+2016-12-07 17:38:26.653885||error||collecting ads||Error||3||1
+2016-12-07 17:38:38.017853||error||collecting ads||Error||2||0
+2016-12-07 17:38:44.268096||error||collecting ads||Error||0||1
+2016-12-07 17:38:51.504011||error||collecting ads||Error||1||0
+2016-12-07 17:38:51.504063||event||progress-marker||measurement-end||1||0
+2016-12-07 17:39:31.661973||error||collecting ads||Error||3||1
+2016-12-07 17:39:43.027871||error||collecting ads||Error||2||0
+2016-12-07 17:39:49.277036||error||collecting ads||Error||0||1
+2016-12-07 17:39:49.277085||event||progress-marker||measurement-end||0||1
+2016-12-07 17:40:36.671721||error||collecting ads||Error||3||1
+2016-12-07 17:40:36.671795||event||progress-marker||measurement-end||3||1
+2016-12-07 17:40:48.039095||error||collecting ads||Error||2||0
+2016-12-07 17:40:48.039167||event||progress-marker||measurement-end||2||0
+2016-12-07 17:40:48.157731||meta||block_id end||0
+2016-12-07 17:40:48.157872||meta||block_id start||1
+2016-12-07 17:40:48.157886||meta||assignment||2@|0@|1@|3
+2016-12-07 17:40:50.168898||event||progress-marker||training-start||2||0
+2016-12-07 17:40:50.168984||event||progress-marker||training-end||2||0
+2016-12-07 17:40:50.346916||event||progress-marker||training-start||0||0
+2016-12-07 17:40:50.347056||event||progress-marker||training-end||0||0
+2016-12-07 17:40:50.394327||event||progress-marker||training-start||3||1
+2016-12-07 17:40:50.439574||event||progress-marker||training-start||1||1
+2016-12-07 17:41:04.829796||treatment||visit website||http://fairvote.org||1||1
+2016-12-07 17:41:05.822721||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 17:41:13.438645||treatment||visit website||http://aceproject.org||1||1
+2016-12-07 17:41:13.715058||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 17:41:21.618499||treatment||visit website||http://votenet.com||1||1
+2016-12-07 17:41:25.475005||treatment||visit website||http://votenet.com||3||1
+2016-12-07 17:41:35.070675||treatment||visit website||http://blackboxvoting.org||1||1
+2016-12-07 17:41:36.164479||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 17:41:44.216922||treatment||visit website||http://aristotle.com||1||1
+2016-12-07 17:41:46.178648||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 17:41:54.581616||treatment||visit website||http://ifes.org||1||1
+2016-12-07 17:41:58.038764||treatment||visit website||http://ifes.org||3||1
+2016-12-07 17:42:03.316380||treatment||visit website||http://completecampaigns.com||1||1
+2016-12-07 17:42:06.122693||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 17:42:13.006635||treatment||visit website||http://bluestatedigital.com||1||1
+2016-12-07 17:42:16.298640||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 17:42:33.587278||treatment||visit website||http://electoral-reform.org.uk||1||1
+2016-12-07 17:42:40.349326||treatment||visit website||http://fidlar.com||1||1
+2016-12-07 17:42:47.126639||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 17:42:51.068500||treatment||visit website||http://campaignsandelections.com||1||1
+2016-12-07 17:42:53.542647||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 17:42:59.889053||treatment||visit website||http://electionguide.org||1||1
+2016-12-07 17:43:06.130632||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 17:43:07.954632||treatment||visit website||http://e-democracy.org||1||1
+2016-12-07 17:43:15.654681||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 17:43:15.950625||treatment||visit website||http://onlinecandidate.com||1||1
+2016-12-07 17:43:23.044165||treatment||visit website||http://robodial.org||1||1
+2016-12-07 17:43:23.044245||event||progress-marker||training-end||1||1
+2016-12-07 17:43:27.250907||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 17:44:07.258854||error||website timeout||http://onlinecandidate.com||3||1
+2016-12-07 17:44:14.314211||treatment||visit website||http://robodial.org||3||1
+2016-12-07 17:44:14.314288||event||progress-marker||training-end||3||1
+2016-12-07 17:44:15.343127||event||progress-marker||measurement-start||2||0
+2016-12-07 17:44:15.507219||event||progress-marker||measurement-start||0||0
+2016-12-07 17:44:18.087754||event||progress-marker||measurement-start||1||1
+2016-12-07 17:44:19.318893||event||progress-marker||measurement-start||3||1
+2016-12-07 17:44:29.988277||measurement||loadtime||0:00:06.897574||1||1
+2016-12-07 17:44:37.613631||measurement||loadtime||0:00:13.290984||3||1
+2016-12-07 17:44:40.887698||measurement||loadtime||0:00:20.377053||0||0
+2016-12-07 17:44:40.970695||measurement||loadtime||0:00:20.626914||2||0
+2016-12-07 17:44:47.432630||measurement||ad||2016-12-07 17:44:47.125263@|Online LL.M in 1 Year@|college.ch@|Online LL.M in International Business Law in 1 Year. No bachelor required. Learn more! ||1||1
+2016-12-07 17:44:48.066046||measurement||loadtime||0:00:13.075372||1||1
+2016-12-07 17:45:42.629584||error||collecting ads||Error||3||1
+2016-12-07 17:45:45.898047||error||collecting ads||Error||0||0
+2016-12-07 17:45:45.990289||error||collecting ads||Error||2||0
+2016-12-07 17:45:53.080382||error||collecting ads||Error||1||1
+2016-12-07 17:46:47.641200||error||collecting ads||Error||3||1
+2016-12-07 17:46:50.910113||error||collecting ads||Error||0||0
+2016-12-07 17:46:51.002572||error||collecting ads||Error||2||0
+2016-12-07 17:46:58.089038||error||collecting ads||Error||1||1
+2016-12-07 17:47:52.648724||error||collecting ads||Error||3||1
+2016-12-07 17:47:55.920988||error||collecting ads||Error||0||0
+2016-12-07 17:47:56.012151||error||collecting ads||Error||2||0
+2016-12-07 17:48:03.098626||error||collecting ads||Error||1||1
+2016-12-07 17:48:57.657798||error||collecting ads||Error||3||1
+2016-12-07 17:49:00.928597||error||collecting ads||Error||0||0
+2016-12-07 17:49:01.022980||error||collecting ads||Error||2||0
+2016-12-07 17:49:08.110933||error||collecting ads||Error||1||1
+2016-12-07 17:50:02.665289||error||collecting ads||Error||3||1
+2016-12-07 17:50:05.940061||error||collecting ads||Error||0||0
+2016-12-07 17:50:06.032027||error||collecting ads||Error||2||0
+2016-12-07 17:50:13.121291||error||collecting ads||Error||1||1
+2016-12-07 17:51:07.673054||error||collecting ads||Error||3||1
+2016-12-07 17:51:10.948286||error||collecting ads||Error||0||0
+2016-12-07 17:51:11.043103||error||collecting ads||Error||2||0
+2016-12-07 17:51:18.128011||error||collecting ads||Error||1||1
+2016-12-07 17:52:12.678527||error||collecting ads||Error||3||1
+2016-12-07 17:52:15.957757||error||collecting ads||Error||0||0
+2016-12-07 17:52:16.053981||error||collecting ads||Error||2||0
+2016-12-07 17:52:23.135646||error||collecting ads||Error||1||1
+2016-12-07 17:53:17.685973||error||collecting ads||Error||3||1
+2016-12-07 17:53:20.968426||error||collecting ads||Error||0||0
+2016-12-07 17:53:21.063614||error||collecting ads||Error||2||0
+2016-12-07 17:53:28.145714||error||collecting ads||Error||1||1
+2016-12-07 17:53:28.145771||event||progress-marker||measurement-end||1||1
+2016-12-07 17:54:22.696165||error||collecting ads||Error||3||1
+2016-12-07 17:54:22.696247||event||progress-marker||measurement-end||3||1
+2016-12-07 17:54:25.976937||error||collecting ads||Error||0||0
+2016-12-07 17:54:25.976984||event||progress-marker||measurement-end||0||0
+2016-12-07 17:54:26.072026||error||collecting ads||Error||2||0
+2016-12-07 17:54:26.072140||event||progress-marker||measurement-end||2||0
+2016-12-07 17:54:26.182132||meta||block_id end||1
+2016-12-07 17:54:26.182291||meta||block_id start||2
+2016-12-07 17:54:26.182308||meta||assignment||1@|3@|0@|2
+2016-12-07 17:54:28.077044||event||progress-marker||training-start||2||1
+2016-12-07 17:54:28.234373||event||progress-marker||training-start||1||0
+2016-12-07 17:54:28.234453||event||progress-marker||training-end||1||0
+2016-12-07 17:54:28.406972||event||progress-marker||training-start||3||0
+2016-12-07 17:54:28.407130||event||progress-marker||training-end||3||0
+2016-12-07 17:54:28.442720||event||progress-marker||training-start||0||1
+2016-12-07 17:54:41.307814||treatment||visit website||http://fairvote.org||2||1
+2016-12-07 17:54:45.549653||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 17:54:49.060112||treatment||visit website||http://aceproject.org||2||1
+2016-12-07 17:54:53.675965||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 17:54:56.729919||treatment||visit website||http://votenet.com||2||1
+2016-12-07 17:55:02.070707||treatment||visit website||http://votenet.com||0||1
+2016-12-07 17:55:07.762813||treatment||visit website||http://blackboxvoting.org||2||1
+2016-12-07 17:55:11.250669||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 17:55:20.612343||treatment||visit website||http://aristotle.com||2||1
+2016-12-07 17:55:22.218734||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 17:55:30.888611||treatment||visit website||http://ifes.org||2||1
+2016-12-07 17:55:38.965578||treatment||visit website||http://ifes.org||0||1
+2016-12-07 17:55:38.978674||treatment||visit website||http://completecampaigns.com||2||1
+2016-12-07 17:55:47.402709||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 17:55:47.938628||treatment||visit website||http://bluestatedigital.com||2||1
+2016-12-07 17:55:56.804843||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 17:56:04.811928||treatment||visit website||http://electoral-reform.org.uk||2||1
+2016-12-07 17:56:12.386669||treatment||visit website||http://fidlar.com||2||1
+2016-12-07 17:56:15.982845||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 17:56:22.693725||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 17:56:22.794810||treatment||visit website||http://campaignsandelections.com||2||1
+2016-12-07 17:56:32.746605||treatment||visit website||http://electionguide.org||2||1
+2016-12-07 17:56:33.478675||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 17:56:42.504399||treatment||visit website||http://e-democracy.org||2||1
+2016-12-07 17:56:43.336513||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 17:56:51.473475||treatment||visit website||http://onlinecandidate.com||2||1
+2016-12-07 17:56:53.098678||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 17:56:58.684019||treatment||visit website||http://robodial.org||2||1
+2016-12-07 17:56:58.684086||event||progress-marker||training-end||2||1
+2016-12-07 17:57:33.108000||error||website timeout||http://onlinecandidate.com||0||1
+2016-12-07 17:57:39.999348||treatment||visit website||http://robodial.org||0||1
+2016-12-07 17:57:39.999442||event||progress-marker||training-end||0||1
+2016-12-07 17:57:43.401143||event||progress-marker||measurement-start||1||0
+2016-12-07 17:57:43.575347||event||progress-marker||measurement-start||3||0
+2016-12-07 17:57:43.719718||event||progress-marker||measurement-start||2||1
+2016-12-07 17:57:45.002984||event||progress-marker||measurement-start||0||1
+2016-12-07 17:57:57.569956||measurement||loadtime||0:00:08.847318||2||1
+2016-12-07 17:58:00.776770||measurement||loadtime||0:00:12.375185||1||0
+2016-12-07 17:58:02.988872||measurement||loadtime||0:00:14.409811||3||0
+2016-12-07 17:58:04.419556||measurement||loadtime||0:00:14.412906||0||1
+2016-12-07 17:58:07.507588||measurement||ad||2016-12-07 17:58:06.907785@|Dental Plans For Seniors@|exploreshops.net@|Looking For Dental Plans For Seniors? Find The Right Provider ||2||1
+2016-12-07 17:58:07.507652||measurement||loadtime||0:00:04.933043||2||1
+2016-12-07 17:58:10.210194||measurement||loadtime||0:00:04.430167||1||0
+2016-12-07 17:58:15.157721||measurement||loadtime||0:00:05.735052||0||1
+2016-12-07 17:58:16.876842||measurement||loadtime||0:00:08.886196||3||0
+2016-12-07 17:58:18.312977||measurement||ad||2016-12-07 17:58:17.736646@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||2||1
+2016-12-07 17:58:18.408317||measurement||loadtime||0:00:05.897410||2||1
+2016-12-07 17:58:25.336906||measurement||ad||2016-12-07 17:58:24.384072@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||0||1
+2016-12-07 17:58:25.961297||measurement||loadtime||0:00:05.798472||0||1
+2016-12-07 17:58:30.869137||measurement||loadtime||0:00:07.457071||2||1
+2016-12-07 17:58:36.360769||measurement||ad||2016-12-07 17:58:36.169084@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||0||1
+2016-12-07 17:58:36.662032||measurement||loadtime||0:00:05.695641||0||1
+2016-12-07 17:58:37.130559||measurement||ad||2016-12-07 17:58:36.866428@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||3||0
+2016-12-07 17:58:37.262325||measurement||loadtime||0:00:15.381355||3||0
+2016-12-07 17:58:40.079382||measurement||ad||2016-12-07 17:58:40.009855@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||2||1
+2016-12-07 17:58:40.208460||measurement||loadtime||0:00:04.337791||2||1
+2016-12-07 17:58:46.613676||measurement||loadtime||0:00:04.946733||0||1
+2016-12-07 17:58:50.476111||measurement||loadtime||0:00:05.265068||2||1
+2016-12-07 17:58:53.895392||measurement||loadtime||0:00:02.276750||0||1
+2016-12-07 17:59:02.548488||measurement||ad||2016-12-07 17:59:02.307711@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||0||1
+2016-12-07 17:59:02.617878||measurement||loadtime||0:00:03.717411||0||1
+2016-12-07 17:59:13.162459||measurement||loadtime||0:00:05.543647||0||1
+2016-12-07 17:59:15.224775||error||collecting ads||Error||1||0
+2016-12-07 17:59:22.582747||measurement||ad||2016-12-07 17:59:22.305791@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||0||1
+2016-12-07 17:59:22.745210||measurement||loadtime||0:00:04.577950||0||1
+2016-12-07 17:59:31.094931||measurement||loadtime||0:00:03.348256||0||1
+2016-12-07 17:59:31.094976||event||progress-marker||measurement-end||0||1
+2016-12-07 17:59:42.277352||error||collecting ads||Error||3||0
+2016-12-07 17:59:55.487942||error||collecting ads||Error||2||1
+2016-12-07 18:00:20.231594||error||collecting ads||Error||1||0
+2016-12-07 18:00:47.288125||error||collecting ads||Error||3||0
+2016-12-07 18:01:00.497828||error||collecting ads||Error||2||1
+2016-12-07 18:01:25.239920||error||collecting ads||Error||1||0
+2016-12-07 18:01:52.300116||error||collecting ads||Error||3||0
+2016-12-07 18:02:05.504750||error||collecting ads||Error||2||1
+2016-12-07 18:02:30.249987||error||collecting ads||Error||1||0
+2016-12-07 18:02:57.308252||error||collecting ads||Error||3||0
+2016-12-07 18:03:10.514804||error||collecting ads||Error||2||1
+2016-12-07 18:03:10.514864||event||progress-marker||measurement-end||2||1
+2016-12-07 18:03:35.257502||error||collecting ads||Error||1||0
+2016-12-07 18:04:02.317112||error||collecting ads||Error||3||0
+2016-12-07 18:04:40.264358||error||collecting ads||Error||1||0
+2016-12-07 18:05:07.326888||error||collecting ads||Error||3||0
+2016-12-07 18:05:45.272885||error||collecting ads||Error||1||0
+2016-12-07 18:06:12.337268||error||collecting ads||Error||3||0
+2016-12-07 18:06:12.337322||event||progress-marker||measurement-end||3||0
+2016-12-07 18:06:50.284090||error||collecting ads||Error||1||0
+2016-12-07 18:06:50.284161||event||progress-marker||measurement-end||1||0
+2016-12-07 18:06:50.366565||meta||block_id end||2
+2016-12-07 18:06:50.366720||meta||block_id start||3
+2016-12-07 18:06:50.366736||meta||assignment||1@|2@|3@|0
+2016-12-07 18:06:52.066430||event||progress-marker||training-start||2||0
+2016-12-07 18:06:52.066501||event||progress-marker||training-end||2||0
+2016-12-07 18:06:52.256438||event||progress-marker||training-start||3||1
+2016-12-07 18:06:52.272733||event||progress-marker||training-start||1||0
+2016-12-07 18:06:52.272812||event||progress-marker||training-end||1||0
+2016-12-07 18:06:52.347513||event||progress-marker||training-start||0||1
+2016-12-07 18:07:09.453056||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 18:07:09.662665||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 18:07:17.486669||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 18:07:21.898650||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 18:07:26.314633||treatment||visit website||http://votenet.com||0||1
+2016-12-07 18:07:33.214145||treatment||visit website||http://votenet.com||3||1
+2016-12-07 18:07:39.991305||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 18:07:44.762778||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 18:07:52.035419||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 18:07:54.418725||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 18:08:02.821425||treatment||visit website||http://ifes.org||0||1
+2016-12-07 18:08:06.398599||treatment||visit website||http://ifes.org||3||1
+2016-12-07 18:08:12.811618||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 18:08:15.272393||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 18:08:24.436778||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 18:08:26.687471||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 18:08:44.069092||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 18:08:44.912435||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 18:08:50.828587||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 18:08:51.533968||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 18:09:01.903026||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 18:09:04.703004||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 18:09:12.029960||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 18:09:13.906148||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 18:09:21.502171||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 18:09:21.738655||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 18:09:29.769947||treatment||visit website||http://onlinecandidate.com||3||1
+2016-12-07 18:09:32.675218||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 18:09:36.836246||treatment||visit website||http://robodial.org||3||1
+2016-12-07 18:09:36.836313||event||progress-marker||training-end||3||1
+2016-12-07 18:09:40.663571||treatment||visit website||http://robodial.org||0||1
+2016-12-07 18:09:40.663645||event||progress-marker||training-end||0||1
+2016-12-07 18:09:41.839575||event||progress-marker||measurement-start||3||1
+2016-12-07 18:09:42.222277||event||progress-marker||measurement-start||2||0
+2016-12-07 18:09:42.421257||event||progress-marker||measurement-start||1||0
+2016-12-07 18:09:45.671658||event||progress-marker||measurement-start||0||1
+2016-12-07 18:10:02.734567||measurement||loadtime||0:00:15.889800||3||1
+2016-12-07 18:10:04.848434||measurement||loadtime||0:00:17.621769||2||0
+2016-12-07 18:10:05.213949||measurement||loadtime||0:00:17.788594||1||0
+2016-12-07 18:10:07.063833||measurement||loadtime||0:00:16.387310||0||1
+2016-12-07 18:10:13.529049||measurement||loadtime||0:00:05.790159||3||1
+2016-12-07 18:10:16.989945||measurement||loadtime||0:00:07.137235||2||0
+2016-12-07 18:10:17.910061||measurement||loadtime||0:00:05.843406||0||1
+2016-12-07 18:10:23.094127||measurement||loadtime||0:00:04.563028||3||1
+2016-12-07 18:10:27.690600||measurement||loadtime||0:00:05.695945||2||0
+2016-12-07 18:10:27.996999||measurement||loadtime||0:00:05.082190||0||1
+2016-12-07 18:10:34.084816||measurement||loadtime||0:00:05.989541||3||1
+2016-12-07 18:10:39.516682||measurement||loadtime||0:00:06.518015||0||1
+2016-12-07 18:10:43.600906||measurement||loadtime||0:00:10.906245||2||0
+2016-12-07 18:10:44.230463||measurement||loadtime||0:00:05.143717||3||1
+2016-12-07 18:10:49.404656||measurement||loadtime||0:00:04.884331||0||1
+2016-12-07 18:10:54.110189||measurement||loadtime||0:00:05.504586||2||0
+2016-12-07 18:10:54.922922||measurement||loadtime||0:00:05.688282||3||1
+2016-12-07 18:11:04.282326||measurement||loadtime||0:00:05.167671||2||0
+2016-12-07 18:11:06.468498||measurement||loadtime||0:00:12.063459||0||1
+2016-12-07 18:11:06.702060||measurement||loadtime||0:00:06.774465||3||1
+2016-12-07 18:11:10.229379||error||collecting ads||Error||1||0
+2016-12-07 18:11:16.759042||measurement||loadtime||0:00:05.052351||3||1
+2016-12-07 18:11:20.159078||measurement||loadtime||0:00:08.687872||0||1
+2016-12-07 18:11:25.668465||measurement||ad||2016-12-07 18:11:24.947154@|Are You Eligible for Aid?@|www.americanhoperesources.com@|Low Income Resource for US Citizens Suffering from Financial Hardship||3||1
+2016-12-07 18:11:25.668544||measurement||loadtime||0:00:03.905404||3||1
+2016-12-07 18:11:28.913914||measurement||loadtime||0:00:03.749713||0||1
+2016-12-07 18:11:35.234685||measurement||loadtime||0:00:04.564463||3||1
+2016-12-07 18:11:35.234823||event||progress-marker||measurement-end||3||1
+2016-12-07 18:11:38.435228||measurement||loadtime||0:00:04.518446||0||1
+2016-12-07 18:12:09.291986||error||collecting ads||Error||2||0
+2016-12-07 18:12:15.236202||error||collecting ads||Error||1||0
+2016-12-07 18:12:43.449297||error||collecting ads||Error||0||1
+2016-12-07 18:12:43.449384||event||progress-marker||measurement-end||0||1
+2016-12-07 18:13:14.302537||error||collecting ads||Error||2||0
+2016-12-07 18:13:20.244579||error||collecting ads||Error||1||0
+2016-12-07 18:14:19.314676||error||collecting ads||Error||2||0
+2016-12-07 18:14:25.253172||error||collecting ads||Error||1||0
+2016-12-07 18:15:24.320333||error||collecting ads||Error||2||0
+2016-12-07 18:15:24.320388||event||progress-marker||measurement-end||2||0
+2016-12-07 18:15:30.265519||error||collecting ads||Error||1||0
+2016-12-07 18:16:35.275513||error||collecting ads||Error||1||0
+2016-12-07 18:17:40.285904||error||collecting ads||Error||1||0
+2016-12-07 18:18:45.296001||error||collecting ads||Error||1||0
+2016-12-07 18:19:50.303012||error||collecting ads||Error||1||0
+2016-12-07 18:19:50.303068||event||progress-marker||measurement-end||1||0
+2016-12-07 18:19:50.375483||meta||block_id end||3
+2016-12-07 18:19:50.375623||meta||block_id start||4
+2016-12-07 18:19:50.375638||meta||assignment||3@|1@|0@|2
+2016-12-07 18:19:52.199109||event||progress-marker||training-start||3||0
+2016-12-07 18:19:52.199179||event||progress-marker||training-end||3||0
+2016-12-07 18:19:52.283678||event||progress-marker||training-start||0||1
+2016-12-07 18:19:52.342253||event||progress-marker||training-start||2||1
+2016-12-07 18:19:52.358495||event||progress-marker||training-start||1||0
+2016-12-07 18:19:52.358569||event||progress-marker||training-end||1||0
+2016-12-07 18:20:12.034195||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 18:20:13.270725||treatment||visit website||http://fairvote.org||2||1
+2016-12-07 18:20:20.055020||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 18:20:21.142633||treatment||visit website||http://aceproject.org||2||1
+2016-12-07 18:20:29.179094||treatment||visit website||http://votenet.com||2||1
+2016-12-07 18:20:31.870829||treatment||visit website||http://votenet.com||0||1
+2016-12-07 18:20:38.759088||treatment||visit website||http://blackboxvoting.org||2||1
+2016-12-07 18:20:41.274721||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 18:20:49.004036||treatment||visit website||http://aristotle.com||2||1
+2016-12-07 18:20:53.326643||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 18:21:03.943878||treatment||visit website||http://ifes.org||2||1
+2016-12-07 18:21:07.461713||treatment||visit website||http://ifes.org||0||1
+2016-12-07 18:21:12.637466||treatment||visit website||http://completecampaigns.com||2||1
+2016-12-07 18:21:16.935330||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 18:21:21.837593||treatment||visit website||http://bluestatedigital.com||2||1
+2016-12-07 18:21:30.438457||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 18:21:42.820254||treatment||visit website||http://electoral-reform.org.uk||2||1
+2016-12-07 18:21:46.058118||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 18:21:48.686722||treatment||visit website||http://fidlar.com||2||1
+2016-12-07 18:21:53.402632||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 18:21:59.338717||treatment||visit website||http://campaignsandelections.com||2||1
+2016-12-07 18:22:04.155139||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 18:22:08.157241||treatment||visit website||http://electionguide.org||2||1
+2016-12-07 18:22:15.702654||treatment||visit website||http://e-democracy.org||2||1
+2016-12-07 18:22:17.739799||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 18:22:23.702632||treatment||visit website||http://onlinecandidate.com||2||1
+2016-12-07 18:22:27.682933||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 18:22:32.212818||treatment||visit website||http://robodial.org||2||1
+2016-12-07 18:22:32.212955||event||progress-marker||training-end||2||1
+2016-12-07 18:23:07.689050||error||website timeout||http://onlinecandidate.com||0||1
+2016-12-07 18:23:14.747351||treatment||visit website||http://robodial.org||0||1
+2016-12-07 18:23:14.747430||event||progress-marker||training-end||0||1
+2016-12-07 18:23:17.266113||event||progress-marker||measurement-start||2||1
+2016-12-07 18:23:17.421813||event||progress-marker||measurement-start||3||0
+2016-12-07 18:23:17.558315||event||progress-marker||measurement-start||1||0
+2016-12-07 18:23:19.753920||event||progress-marker||measurement-start||0||1
+2016-12-07 18:23:37.299723||measurement||loadtime||0:00:14.873017||3||0
+2016-12-07 18:23:38.320920||measurement||loadtime||0:00:16.050281||2||1
+2016-12-07 18:23:38.433760||measurement||loadtime||0:00:15.871060||1||0
+2016-12-07 18:23:43.905898||measurement||loadtime||0:00:19.147220||0||1
+2016-12-07 18:23:54.285323||measurement||loadtime||0:00:11.980500||3||0
+2016-12-07 18:23:54.416111||measurement||loadtime||0:00:11.092929||2||1
+2016-12-07 18:24:09.018181||measurement||loadtime||0:00:09.598698||2||1
+2016-12-07 18:24:19.712775||measurement||loadtime||0:00:05.689491||2||1
+2016-12-07 18:24:43.450813||error||collecting ads||Error||1||0
+2016-12-07 18:24:48.923196||error||collecting ads||Error||0||1
+2016-12-07 18:24:59.295286||error||collecting ads||Error||3||0
+2016-12-07 18:25:24.724161||error||collecting ads||Error||2||1
+2016-12-07 18:25:48.464053||error||collecting ads||Error||1||0
+2016-12-07 18:25:53.931094||error||collecting ads||Error||0||1
+2016-12-07 18:26:04.305550||error||collecting ads||Error||3||0
+2016-12-07 18:26:29.733342||error||collecting ads||Error||2||1
+2016-12-07 18:26:53.472006||error||collecting ads||Error||1||0
+2016-12-07 18:26:58.939795||error||collecting ads||Error||0||1
+2016-12-07 18:27:09.318043||error||collecting ads||Error||3||0
+2016-12-07 18:27:34.743806||error||collecting ads||Error||2||1
+2016-12-07 18:27:58.482768||error||collecting ads||Error||1||0
+2016-12-07 18:28:03.947766||error||collecting ads||Error||0||1
+2016-12-07 18:28:24.329696||error||collecting ads||Error||3||0
+2016-12-07 18:28:39.751871||error||collecting ads||Error||2||1
+2016-12-07 18:29:03.491734||error||collecting ads||Error||1||0
+2016-12-07 18:29:08.957080||error||collecting ads||Error||0||1
+2016-12-07 18:29:29.339314||error||collecting ads||Error||3||0
+2016-12-07 18:29:44.761560||error||collecting ads||Error||2||1
+2016-12-07 18:30:08.502351||error||collecting ads||Error||1||0
+2016-12-07 18:30:13.966704||error||collecting ads||Error||0||1
+2016-12-07 18:30:34.349605||error||collecting ads||Error||3||0
+2016-12-07 18:30:49.770294||error||collecting ads||Error||2||1
+2016-12-07 18:30:49.770346||event||progress-marker||measurement-end||2||1
+2016-12-07 18:31:13.517659||error||collecting ads||Error||1||0
+2016-12-07 18:31:18.976520||error||collecting ads||Error||0||1
+2016-12-07 18:31:39.359575||error||collecting ads||Error||3||0
+2016-12-07 18:32:18.528084||error||collecting ads||Error||1||0
+2016-12-07 18:32:23.985749||error||collecting ads||Error||0||1
+2016-12-07 18:32:44.370206||error||collecting ads||Error||3||0
+2016-12-07 18:32:44.370261||event||progress-marker||measurement-end||3||0
+2016-12-07 18:33:23.538320||error||collecting ads||Error||1||0
+2016-12-07 18:33:23.538384||event||progress-marker||measurement-end||1||0
+2016-12-07 18:33:29.002625||error||collecting ads||Error||0||1
+2016-12-07 18:33:29.002693||event||progress-marker||measurement-end||0||1
+2016-12-07 18:33:29.118995||meta||block_id end||4
+2016-12-07 18:33:29.119128||meta||block_id start||5
+2016-12-07 18:33:29.119140||meta||assignment||1@|3@|2@|0
+2016-12-07 18:33:30.870325||event||progress-marker||training-start||1||0
+2016-12-07 18:33:30.870396||event||progress-marker||training-end||1||0
+2016-12-07 18:33:30.935407||event||progress-marker||training-start||0||1
+2016-12-07 18:33:31.017318||event||progress-marker||training-start||2||1
+2016-12-07 18:33:31.120688||event||progress-marker||training-start||3||0
+2016-12-07 18:33:31.120910||event||progress-marker||training-end||3||0
+2016-12-07 18:33:47.081618||treatment||visit website||http://fairvote.org||2||1
+2016-12-07 18:33:49.158659||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 18:33:54.738632||treatment||visit website||http://aceproject.org||2||1
+2016-12-07 18:33:57.785456||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 18:34:20.467624||treatment||visit website||http://votenet.com||2||1
+2016-12-07 18:34:24.695458||treatment||visit website||http://votenet.com||0||1
+2016-12-07 18:34:29.214699||treatment||visit website||http://blackboxvoting.org||2||1
+2016-12-07 18:34:35.440046||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 18:34:37.577877||treatment||visit website||http://aristotle.com||2||1
+2016-12-07 18:34:48.083406||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 18:34:48.403111||treatment||visit website||http://ifes.org||2||1
+2016-12-07 18:34:58.562644||treatment||visit website||http://completecampaigns.com||2||1
+2016-12-07 18:35:04.034650||treatment||visit website||http://ifes.org||0||1
+2016-12-07 18:35:13.290431||treatment||visit website||http://bluestatedigital.com||2||1
+2016-12-07 18:35:17.159374||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 18:35:28.206668||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 18:35:36.350641||treatment||visit website||http://electoral-reform.org.uk||2||1
+2016-12-07 18:35:42.840088||treatment||visit website||http://fidlar.com||2||1
+2016-12-07 18:35:54.324401||treatment||visit website||http://campaignsandelections.com||2||1
+2016-12-07 18:36:03.042066||treatment||visit website||http://electionguide.org||2||1
+2016-12-07 18:36:03.267028||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 18:36:11.279278||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 18:36:11.322630||treatment||visit website||http://e-democracy.org||2||1
+2016-12-07 18:36:18.989631||treatment||visit website||http://onlinecandidate.com||2||1
+2016-12-07 18:36:22.407236||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 18:36:26.094683||treatment||visit website||http://robodial.org||2||1
+2016-12-07 18:36:26.094875||event||progress-marker||training-end||2||1
+2016-12-07 18:36:31.311553||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 18:36:40.911311||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 18:36:48.701886||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 18:36:56.292713||treatment||visit website||http://robodial.org||0||1
+2016-12-07 18:36:56.292790||event||progress-marker||training-end||0||1
+2016-12-07 18:36:56.334918||event||progress-marker||measurement-start||3||0
+2016-12-07 18:37:01.084075||event||progress-marker||measurement-start||1||0
+2016-12-07 18:37:01.132375||event||progress-marker||measurement-start||2||1
+2016-12-07 18:37:01.300024||event||progress-marker||measurement-start||0||1
+2016-12-07 18:37:17.658514||measurement||loadtime||0:00:11.354115||0||1
+2016-12-07 18:37:19.603495||measurement||loadtime||0:00:18.264781||3||0
+2016-12-07 18:37:25.776972||measurement||loadtime||0:00:19.640027||2||1
+2016-12-07 18:37:28.083821||measurement||loadtime||0:00:21.998251||1||0
+2016-12-07 18:37:40.211831||measurement||loadtime||0:00:07.125116||1||0
+2016-12-07 18:37:40.335334||measurement||loadtime||0:00:17.672689||0||1
+2016-12-07 18:37:40.696477||measurement||loadtime||0:00:09.917212||2||1
+2016-12-07 18:37:57.283217||measurement||loadtime||0:00:11.584517||2||1
+2016-12-07 18:37:57.341192||measurement||loadtime||0:00:12.000837||0||1
+2016-12-07 18:37:57.576002||measurement||loadtime||0:00:12.358457||1||0
+2016-12-07 18:38:15.581681||measurement||loadtime||0:00:13.235480||0||1
+2016-12-07 18:38:18.535933||measurement||loadtime||0:00:16.247999||2||1
+2016-12-07 18:38:18.581337||measurement||loadtime||0:00:16.002431||1||0
+2016-12-07 18:38:24.620922||error||collecting ads||Error||3||0
+2016-12-07 18:38:27.552357||measurement||loadtime||0:00:06.965684||0||1
+2016-12-07 18:38:30.485995||measurement||loadtime||0:00:06.903332||1||0
+2016-12-07 18:38:33.453933||measurement||loadtime||0:00:09.913789||2||1
+2016-12-07 18:38:41.296692||measurement||loadtime||0:00:08.739788||0||1
+2016-12-07 18:38:44.895245||measurement||loadtime||0:00:06.436535||2||1
+2016-12-07 18:38:52.735588||measurement||loadtime||0:00:06.436932||0||1
+2016-12-07 18:38:56.627613||measurement||loadtime||0:00:06.728970||2||1
+2016-12-07 18:39:00.348431||measurement||loadtime||0:00:02.607705||0||1
+2016-12-07 18:39:09.743804||measurement||ad||2016-12-07 18:39:09.024679@|Job Openings@|www.findtherightjob.com@|Find Job Openings In Your Area. Apply For a Position Today!||2||1
+2016-12-07 18:39:09.743889||measurement||loadtime||0:00:08.112459||2||1
+2016-12-07 18:39:14.433404||measurement||loadtime||0:00:09.081275||0||1
+2016-12-07 18:39:24.158841||measurement||loadtime||0:00:04.724154||0||1
+2016-12-07 18:39:24.158903||event||progress-marker||measurement-end||0||1
+2016-12-07 18:39:29.633434||error||collecting ads||Error||3||0
+2016-12-07 18:39:35.495692||error||collecting ads||Error||1||0
+2016-12-07 18:40:14.756829||error||collecting ads||Error||2||1
+2016-12-07 18:40:34.647448||error||collecting ads||Error||3||0
+2016-12-07 18:40:40.505350||error||collecting ads||Error||1||0
+2016-12-07 18:41:19.766625||error||collecting ads||Error||2||1
+2016-12-07 18:41:19.766695||event||progress-marker||measurement-end||2||1
+2016-12-07 18:41:45.514180||error||collecting ads||Error||1||0
+2016-12-07 18:41:49.661081||error||collecting ads||Error||3||0
+2016-12-07 18:42:50.529012||error||collecting ads||Error||1||0
+2016-12-07 18:42:54.673419||error||collecting ads||Error||3||0
+2016-12-07 18:43:55.536981||error||collecting ads||Error||1||0
+2016-12-07 18:43:55.537032||event||progress-marker||measurement-end||1||0
+2016-12-07 18:43:59.683809||error||collecting ads||Error||3||0
+2016-12-07 18:45:04.693449||error||collecting ads||Error||3||0
+2016-12-07 18:46:09.701557||error||collecting ads||Error||3||0
+2016-12-07 18:47:14.707704||error||collecting ads||Error||3||0
+2016-12-07 18:47:14.707762||event||progress-marker||measurement-end||3||0
+2016-12-07 18:47:14.821915||meta||block_id end||5
+2016-12-07 18:47:14.822049||meta||block_id start||6
+2016-12-07 18:47:14.822061||meta||assignment||1@|0@|2@|3
+2016-12-07 18:47:16.773035||event||progress-marker||training-start||3||1
+2016-12-07 18:47:17.025971||event||progress-marker||training-start||1||0
+2016-12-07 18:47:17.026063||event||progress-marker||training-end||1||0
+2016-12-07 18:47:17.106361||event||progress-marker||training-start||2||1
+2016-12-07 18:47:17.111410||event||progress-marker||training-start||0||0
+2016-12-07 18:47:17.111490||event||progress-marker||training-end||0||0
+2016-12-07 18:47:34.070634||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 18:47:37.675283||treatment||visit website||http://fairvote.org||2||1
+2016-12-07 18:47:43.334646||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 18:47:45.510777||treatment||visit website||http://aceproject.org||2||1
+2016-12-07 18:47:53.524334||treatment||visit website||http://votenet.com||3||1
+2016-12-07 18:47:54.692953||treatment||visit website||http://votenet.com||2||1
+2016-12-07 18:48:10.110686||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 18:48:11.099437||treatment||visit website||http://blackboxvoting.org||2||1
+2016-12-07 18:48:18.734659||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 18:48:20.567221||treatment||visit website||http://aristotle.com||2||1
+2016-12-07 18:48:30.086636||treatment||visit website||http://ifes.org||2||1
+2016-12-07 18:48:34.104191||treatment||visit website||http://ifes.org||3||1
+2016-12-07 18:48:40.039742||treatment||visit website||http://completecampaigns.com||2||1
+2016-12-07 18:48:45.041229||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 18:48:51.585728||treatment||visit website||http://bluestatedigital.com||2||1
+2016-12-07 18:48:54.762655||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 18:49:12.173414||treatment||visit website||http://electoral-reform.org.uk||2||1
+2016-12-07 18:49:12.242956||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 18:49:18.710629||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 18:49:18.791357||treatment||visit website||http://fidlar.com||2||1
+2016-12-07 18:49:31.022643||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 18:49:35.424993||treatment||visit website||http://campaignsandelections.com||2||1
+2016-12-07 18:49:40.906662||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 18:49:44.526645||treatment||visit website||http://electionguide.org||2||1
+2016-12-07 18:49:50.704529||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 18:49:54.200932||treatment||visit website||http://e-democracy.org||2||1
+2016-12-07 18:49:58.776919||treatment||visit website||http://onlinecandidate.com||3||1
+2016-12-07 18:50:02.098678||treatment||visit website||http://onlinecandidate.com||2||1
+2016-12-07 18:50:06.094796||treatment||visit website||http://robodial.org||3||1
+2016-12-07 18:50:06.095093||event||progress-marker||training-end||3||1
+2016-12-07 18:50:09.254626||treatment||visit website||http://robodial.org||2||1
+2016-12-07 18:50:09.254695||event||progress-marker||training-end||2||1
+2016-12-07 18:50:11.100528||event||progress-marker||measurement-start||3||1
+2016-12-07 18:50:12.226084||event||progress-marker||measurement-start||1||0
+2016-12-07 18:50:12.301229||event||progress-marker||measurement-start||0||0
+2016-12-07 18:50:14.261155||event||progress-marker||measurement-start||2||1
+2016-12-07 18:50:28.983901||measurement||ad||2016-12-07 18:50:28.841491@|Why Invest In Commodities@|claimrating.com@|Invest Assets In The Right Index Funds! Learn About Investment Services  Commodities. ||1||0
+2016-12-07 18:50:29.194728||measurement||loadtime||0:00:11.966257||1||0
+2016-12-07 18:50:30.847240||measurement||loadtime||0:00:14.743754||3||1
+2016-12-07 18:50:33.779990||measurement||loadtime||0:00:14.514507||2||1
+2016-12-07 18:50:35.384219||measurement||loadtime||0:00:18.081581||0||0
+2016-12-07 18:50:40.333409||measurement||loadtime||0:00:06.134756||1||0
+2016-12-07 18:50:41.900103||measurement||loadtime||0:00:06.047748||3||1
+2016-12-07 18:50:45.531961||measurement||loadtime||0:00:06.746920||2||1
+2016-12-07 18:50:51.357102||measurement||loadtime||0:00:10.968466||0||0
+2016-12-07 18:50:53.483172||measurement||loadtime||0:00:06.580527||3||1
+2016-12-07 18:50:57.741262||measurement||loadtime||0:00:07.206484||2||1
+2016-12-07 18:51:03.681272||measurement||loadtime||0:00:07.319194||0||0
+2016-12-07 18:51:08.036627||measurement||loadtime||0:00:09.549502||3||1
+2016-12-07 18:51:12.038779||measurement||loadtime||0:00:09.292759||2||1
+2016-12-07 18:51:18.647222||measurement||loadtime||0:00:33.312558||1||0
+2016-12-07 18:51:23.585670||measurement||loadtime||0:00:06.542299||2||1
+2016-12-07 18:52:08.703760||error||collecting ads||Error||0||0
+2016-12-07 18:52:13.056035||error||collecting ads||Error||3||1
+2016-12-07 18:52:23.658158||error||collecting ads||Error||1||0
+2016-12-07 18:52:28.599011||error||collecting ads||Error||2||1
+2016-12-07 18:53:13.713773||error||collecting ads||Error||0||0
+2016-12-07 18:53:18.064782||error||collecting ads||Error||3||1
+2016-12-07 18:53:28.670104||error||collecting ads||Error||1||0
+2016-12-07 18:53:43.605461||error||collecting ads||Error||2||1
+2016-12-07 18:54:18.724097||error||collecting ads||Error||0||0
+2016-12-07 18:54:23.070097||error||collecting ads||Error||3||1
+2016-12-07 18:54:33.679862||error||collecting ads||Error||1||0
+2016-12-07 18:54:48.615240||error||collecting ads||Error||2||1
+2016-12-07 18:55:23.734551||error||collecting ads||Error||0||0
+2016-12-07 18:55:28.080085||error||collecting ads||Error||3||1
+2016-12-07 18:55:38.689937||error||collecting ads||Error||1||0
+2016-12-07 18:55:53.624960||error||collecting ads||Error||2||1
+2016-12-07 18:56:28.749981||error||collecting ads||Error||0||0
+2016-12-07 18:56:33.092775||error||collecting ads||Error||3||1
+2016-12-07 18:56:43.701034||error||collecting ads||Error||1||0
+2016-12-07 18:56:58.634629||error||collecting ads||Error||2||1
+2016-12-07 18:56:58.634690||event||progress-marker||measurement-end||2||1
+2016-12-07 18:57:33.761976||error||collecting ads||Error||0||0
+2016-12-07 18:57:44.612332||error||collecting ads||Error||3||1
+2016-12-07 18:57:44.612400||event||progress-marker||measurement-end||3||1
+2016-12-07 18:57:55.528155||error||collecting ads||Error||1||0
+2016-12-07 18:58:38.772372||error||collecting ads||Error||0||0
+2016-12-07 18:58:38.772421||event||progress-marker||measurement-end||0||0
+2016-12-07 18:59:00.539163||error||collecting ads||Error||1||0
+2016-12-07 18:59:00.539214||event||progress-marker||measurement-end||1||0
+2016-12-07 18:59:00.620712||meta||block_id end||6
+2016-12-07 18:59:00.620840||meta||block_id start||7
+2016-12-07 18:59:00.620854||meta||assignment||1@|3@|2@|0
+2016-12-07 18:59:02.757241||event||progress-marker||training-start||3||0
+2016-12-07 18:59:02.757344||event||progress-marker||training-end||3||0
+2016-12-07 18:59:02.785896||event||progress-marker||training-start||0||1
+2016-12-07 18:59:02.808137||event||progress-marker||training-start||1||0
+2016-12-07 18:59:02.808213||event||progress-marker||training-end||1||0
+2016-12-07 18:59:02.854728||event||progress-marker||training-start||2||1
+2016-12-07 18:59:19.695298||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 18:59:20.270622||treatment||visit website||http://fairvote.org||2||1
+2016-12-07 18:59:28.527392||treatment||visit website||http://aceproject.org||2||1
+2016-12-07 18:59:29.059709||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 18:59:37.116087||treatment||visit website||http://votenet.com||2||1
+2016-12-07 18:59:37.510645||treatment||visit website||http://votenet.com||0||1
+2016-12-07 18:59:48.578971||treatment||visit website||http://blackboxvoting.org||2||1
+2016-12-07 18:59:50.242748||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 18:59:58.099416||treatment||visit website||http://aristotle.com||2||1
+2016-12-07 19:00:02.567637||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 19:00:08.658640||treatment||visit website||http://ifes.org||2||1
+2016-12-07 19:00:14.610647||treatment||visit website||http://ifes.org||0||1
+2016-12-07 19:00:18.575559||treatment||visit website||http://completecampaigns.com||2||1
+2016-12-07 19:00:24.052992||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 19:00:27.703157||treatment||visit website||http://bluestatedigital.com||2||1
+2016-12-07 19:00:35.959750||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 19:00:47.360249||treatment||visit website||http://electoral-reform.org.uk||2||1
+2016-12-07 19:00:53.843111||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 19:00:54.510758||treatment||visit website||http://fidlar.com||2||1
+2016-12-07 19:01:00.462659||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 19:01:09.010661||treatment||visit website||http://campaignsandelections.com||2||1
+2016-12-07 19:01:16.707859||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 19:01:19.782637||treatment||visit website||http://electionguide.org||2||1
+2016-12-07 19:01:25.559147||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 19:01:27.178644||treatment||visit website||http://e-democracy.org||2||1
+2016-12-07 19:01:35.782636||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 19:01:36.180948||treatment||visit website||http://onlinecandidate.com||2||1
+2016-12-07 19:01:43.724698||treatment||visit website||http://robodial.org||2||1
+2016-12-07 19:01:43.724771||event||progress-marker||training-end||2||1
+2016-12-07 19:01:43.779540||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 19:01:51.166706||treatment||visit website||http://robodial.org||0||1
+2016-12-07 19:01:51.166774||event||progress-marker||training-end||0||1
+2016-12-07 19:01:52.952000||event||progress-marker||measurement-start||3||0
+2016-12-07 19:01:53.035609||event||progress-marker||measurement-start||1||0
+2016-12-07 19:01:53.739260||event||progress-marker||measurement-start||2||1
+2016-12-07 19:01:56.171414||event||progress-marker||measurement-start||0||1
+2016-12-07 19:02:07.738741||measurement||loadtime||0:00:09.785628||3||0
+2016-12-07 19:02:07.762425||measurement||loadtime||0:00:09.018828||2||1
+2016-12-07 19:02:17.873883||measurement||loadtime||0:00:16.697320||0||1
+2016-12-07 19:02:28.873815||measurement||loadtime||0:00:05.995175||0||1
+2016-12-07 19:02:39.145557||measurement||loadtime||0:00:05.266911||0||1
+2016-12-07 19:02:48.274187||measurement||loadtime||0:00:04.124870||0||1
+2016-12-07 19:02:58.073174||error||collecting ads||Error||1||0
+2016-12-07 19:02:58.759979||measurement||loadtime||0:00:05.481327||0||1
+2016-12-07 19:03:12.541891||measurement||loadtime||0:00:09.464886||1||0
+2016-12-07 19:03:12.771402||error||collecting ads||Error||3||0
+2016-12-07 19:03:12.805636||error||collecting ads||Error||2||1
+2016-12-07 19:03:13.570119||measurement||loadtime||0:00:09.807473||0||1
+2016-12-07 19:03:27.893256||measurement||loadtime||0:00:09.318560||0||1
+2016-12-07 19:03:30.837768||measurement||loadtime||0:00:13.027079||2||1
+2016-12-07 19:03:36.525540||measurement||loadtime||0:00:18.750876||3||0
+2016-12-07 19:03:37.607942||measurement||loadtime||0:00:04.711015||0||1
+2016-12-07 19:03:41.363089||measurement||loadtime||0:00:05.520434||2||1
+2016-12-07 19:03:48.219887||measurement||loadtime||0:00:06.693932||3||0
+2016-12-07 19:03:50.952492||measurement||loadtime||0:00:04.585855||2||1
+2016-12-07 19:03:51.886683||measurement||loadtime||0:00:09.273189||0||1
+2016-12-07 19:04:00.893819||measurement||loadtime||0:00:04.002110||0||1
+2016-12-07 19:04:00.893879||event||progress-marker||measurement-end||0||1
+2016-12-07 19:04:01.931068||measurement||loadtime||0:00:05.976306||2||1
+2016-12-07 19:04:17.557489||error||collecting ads||Error||1||0
+2016-12-07 19:04:53.240167||error||collecting ads||Error||3||0
+2016-12-07 19:05:02.651781||measurement||loadtime||0:00:04.408629||3||0
+2016-12-07 19:05:06.941727||error||collecting ads||Error||2||1
+2016-12-07 19:05:10.801720||measurement||loadtime||0:00:03.145922||3||0
+2016-12-07 19:05:18.971475||measurement||loadtime||0:00:03.164838||3||0
+2016-12-07 19:05:22.566170||error||collecting ads||Error||1||0
+2016-12-07 19:05:27.144313||measurement||loadtime||0:00:03.168153||3||0
+2016-12-07 19:05:37.979884||measurement||loadtime||0:00:05.831322||3||0
+2016-12-07 19:05:37.979932||event||progress-marker||measurement-end||3||0
+2016-12-07 19:06:11.951428||error||collecting ads||Error||2||1
+2016-12-07 19:06:27.574668||error||collecting ads||Error||1||0
+2016-12-07 19:07:16.958314||error||collecting ads||Error||2||1
+2016-12-07 19:07:32.584912||error||collecting ads||Error||1||0
+2016-12-07 19:08:21.968447||error||collecting ads||Error||2||1
+2016-12-07 19:08:21.968527||event||progress-marker||measurement-end||2||1
+2016-12-07 19:08:37.591631||error||collecting ads||Error||1||0
+2016-12-07 19:09:42.602127||error||collecting ads||Error||1||0
+2016-12-07 19:10:47.617904||error||collecting ads||Error||1||0
+2016-12-07 19:11:52.628011||error||collecting ads||Error||1||0
+2016-12-07 19:11:52.628080||event||progress-marker||measurement-end||1||0
+2016-12-07 19:11:52.720334||meta||block_id end||7
+2016-12-07 19:11:52.720594||meta||block_id start||8
+2016-12-07 19:11:52.720625||meta||assignment||3@|2@|0@|1
+2016-12-07 19:11:54.814208||event||progress-marker||training-start||3||0
+2016-12-07 19:11:54.814293||event||progress-marker||training-end||3||0
+2016-12-07 19:11:54.875022||event||progress-marker||training-start||1||1
+2016-12-07 19:11:54.953131||event||progress-marker||training-start||0||1
+2016-12-07 19:11:55.058375||event||progress-marker||training-start||2||0
+2016-12-07 19:11:55.058463||event||progress-marker||training-end||2||0
+2016-12-07 19:12:10.578079||treatment||visit website||http://fairvote.org||1||1
+2016-12-07 19:12:12.279388||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 19:12:19.138873||treatment||visit website||http://aceproject.org||1||1
+2016-12-07 19:12:20.486711||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 19:12:27.938719||treatment||visit website||http://votenet.com||1||1
+2016-12-07 19:12:29.228534||treatment||visit website||http://votenet.com||0||1
+2016-12-07 19:12:37.934736||treatment||visit website||http://blackboxvoting.org||1||1
+2016-12-07 19:12:41.128558||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 19:12:47.697577||treatment||visit website||http://aristotle.com||1||1
+2016-12-07 19:12:53.166076||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 19:12:59.506661||treatment||visit website||http://ifes.org||1||1
+2016-12-07 19:13:10.150299||treatment||visit website||http://ifes.org||0||1
+2016-12-07 19:13:14.728430||treatment||visit website||http://completecampaigns.com||1||1
+2016-12-07 19:13:19.488044||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 19:13:24.426676||treatment||visit website||http://bluestatedigital.com||1||1
+2016-12-07 19:13:29.292903||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 19:13:44.134657||treatment||visit website||http://electoral-reform.org.uk||1||1
+2016-12-07 19:13:49.494631||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 19:13:50.090645||treatment||visit website||http://fidlar.com||1||1
+2016-12-07 19:13:55.706653||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 19:14:00.588927||treatment||visit website||http://campaignsandelections.com||1||1
+2016-12-07 19:14:07.490643||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 19:14:11.898643||treatment||visit website||http://electionguide.org||1||1
+2016-12-07 19:14:17.061065||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 19:14:22.012773||treatment||visit website||http://e-democracy.org||1||1
+2016-12-07 19:14:29.100667||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 19:14:30.838663||treatment||visit website||http://onlinecandidate.com||1||1
+2016-12-07 19:14:38.038647||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 19:14:43.041842||treatment||visit website||http://robodial.org||1||1
+2016-12-07 19:14:43.041906||event||progress-marker||training-end||1||1
+2016-12-07 19:14:44.874628||treatment||visit website||http://robodial.org||0||1
+2016-12-07 19:14:44.874701||event||progress-marker||training-end||0||1
+2016-12-07 19:14:45.014917||event||progress-marker||measurement-start||3||0
+2016-12-07 19:14:45.268895||event||progress-marker||measurement-start||2||0
+2016-12-07 19:14:48.049862||event||progress-marker||measurement-start||1||1
+2016-12-07 19:14:49.883158||event||progress-marker||measurement-start||0||1
+2016-12-07 19:15:50.036508||error||collecting ads||Error||3||0
+2016-12-07 19:15:50.288745||error||collecting ads||Error||2||0
+2016-12-07 19:15:53.072969||error||collecting ads||Error||1||1
+2016-12-07 19:15:54.904296||error||collecting ads||Error||0||1
+2016-12-07 19:16:05.155863||measurement||loadtime||0:00:09.865155||2||0
+2016-12-07 19:16:11.384813||measurement||loadtime||0:00:11.478104||0||1
+2016-12-07 19:16:21.168904||measurement||loadtime||0:00:11.010212||2||0
+2016-12-07 19:16:37.603518||measurement||loadtime||0:00:11.431038||2||0
+2016-12-07 19:16:55.053187||error||collecting ads||Error||3||0
+2016-12-07 19:16:58.085881||error||collecting ads||Error||1||1
+2016-12-07 19:17:16.406087||error||collecting ads||Error||0||1
+2016-12-07 19:17:26.639281||measurement||loadtime||0:00:05.228073||0||1
+2016-12-07 19:17:35.843437||measurement||loadtime||0:00:04.202551||0||1
+2016-12-07 19:17:42.616809||error||collecting ads||Error||2||0
+2016-12-07 19:17:46.303635||measurement||loadtime||0:00:05.456971||0||1
+2016-12-07 19:18:00.060741||error||collecting ads||Error||3||0
+2016-12-07 19:18:03.099433||error||collecting ads||Error||1||1
+2016-12-07 19:18:47.627512||error||collecting ads||Error||2||0
+2016-12-07 19:18:51.328415||error||collecting ads||Error||0||1
+2016-12-07 19:19:03.449677||measurement||loadtime||0:00:07.116700||0||1
+2016-12-07 19:19:05.071581||error||collecting ads||Error||3||0
+2016-12-07 19:19:08.108435||error||collecting ads||Error||1||1
+2016-12-07 19:19:12.425151||measurement||loadtime||0:00:03.970450||0||1
+2016-12-07 19:19:21.192755||measurement||loadtime||0:00:03.766122||0||1
+2016-12-07 19:19:21.192816||event||progress-marker||measurement-end||0||1
+2016-12-07 19:19:52.637621||error||collecting ads||Error||2||0
+2016-12-07 19:20:10.080001||error||collecting ads||Error||3||0
+2016-12-07 19:20:13.116954||error||collecting ads||Error||1||1
+2016-12-07 19:20:57.648441||error||collecting ads||Error||2||0
+2016-12-07 19:21:15.090970||error||collecting ads||Error||3||0
+2016-12-07 19:21:18.127368||error||collecting ads||Error||1||1
+2016-12-07 19:22:02.656344||error||collecting ads||Error||2||0
+2016-12-07 19:22:23.137499||error||collecting ads||Error||1||1
+2016-12-07 19:22:26.634165||error||collecting ads||Error||3||0
+2016-12-07 19:23:07.667536||error||collecting ads||Error||2||0
+2016-12-07 19:23:07.667604||event||progress-marker||measurement-end||2||0
+2016-12-07 19:23:28.145454||error||collecting ads||Error||1||1
+2016-12-07 19:23:31.645090||error||collecting ads||Error||3||0
+2016-12-07 19:24:33.152621||error||collecting ads||Error||1||1
+2016-12-07 19:24:36.655529||error||collecting ads||Error||3||0
+2016-12-07 19:25:38.161856||error||collecting ads||Error||1||1
+2016-12-07 19:25:38.161904||event||progress-marker||measurement-end||1||1
+2016-12-07 19:25:41.663718||error||collecting ads||Error||3||0
+2016-12-07 19:25:41.663772||event||progress-marker||measurement-end||3||0
+2016-12-07 19:25:41.747389||meta||block_id end||8
+2016-12-07 19:25:41.747529||meta||block_id start||9
+2016-12-07 19:25:41.747546||meta||assignment||0@|1@|2@|3
+2016-12-07 19:25:43.606971||event||progress-marker||training-start||0||0
+2016-12-07 19:25:43.607054||event||progress-marker||training-end||0||0
+2016-12-07 19:25:43.613250||event||progress-marker||training-start||2||1
+2016-12-07 19:25:43.821620||event||progress-marker||training-start||3||1
+2016-12-07 19:25:43.902738||event||progress-marker||training-start||1||0
+2016-12-07 19:25:43.902811||event||progress-marker||training-end||1||0
+2016-12-07 19:26:00.830182||treatment||visit website||http://fairvote.org||2||1
+2016-12-07 19:26:01.298627||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 19:26:08.776472||treatment||visit website||http://aceproject.org||2||1
+2016-12-07 19:26:09.267701||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 19:26:17.079429||treatment||visit website||http://votenet.com||3||1
+2016-12-07 19:26:17.163624||treatment||visit website||http://votenet.com||2||1
+2016-12-07 19:26:26.956987||treatment||visit website||http://blackboxvoting.org||2||1
+2016-12-07 19:26:28.246664||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 19:26:37.014156||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 19:26:44.786672||treatment||visit website||http://aristotle.com||2||1
+2016-12-07 19:26:46.418642||treatment||visit website||http://ifes.org||3||1
+2016-12-07 19:26:54.342650||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 19:27:00.414646||treatment||visit website||http://ifes.org||2||1
+2016-12-07 19:27:07.762633||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 19:27:09.211004||treatment||visit website||http://completecampaigns.com||2||1
+2016-12-07 19:27:18.252040||treatment||visit website||http://bluestatedigital.com||2||1
+2016-12-07 19:27:25.501273||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 19:27:31.933224||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 19:27:35.994639||treatment||visit website||http://electoral-reform.org.uk||2||1
+2016-12-07 19:27:42.524015||treatment||visit website||http://fidlar.com||2||1
+2016-12-07 19:27:43.060141||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 19:27:53.700040||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 19:27:53.787058||treatment||visit website||http://campaignsandelections.com||2||1
+2016-12-07 19:28:03.375639||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 19:28:08.438716||treatment||visit website||http://electionguide.org||2||1
+2016-12-07 19:28:13.952726||treatment||visit website||http://onlinecandidate.com||3||1
+2016-12-07 19:28:16.612613||treatment||visit website||http://e-democracy.org||2||1
+2016-12-07 19:28:22.658629||treatment||visit website||http://robodial.org||3||1
+2016-12-07 19:28:22.658695||event||progress-marker||training-end||3||1
+2016-12-07 19:28:56.640674||error||website timeout||http://onlinecandidate.com||2||1
+2016-12-07 19:29:08.418647||treatment||visit website||http://robodial.org||2||1
+2016-12-07 19:29:08.418750||event||progress-marker||training-end||2||1
+2016-12-07 19:29:08.888868||event||progress-marker||measurement-start||0||0
+2016-12-07 19:29:09.172324||event||progress-marker||measurement-start||1||0
+2016-12-07 19:29:12.720816||event||progress-marker||measurement-start||3||1
+2016-12-07 19:29:13.427790||event||progress-marker||measurement-start||2||1
+2016-12-07 19:30:14.012927||error||collecting ads||Error||0||0
+2016-12-07 19:30:14.289134||error||collecting ads||Error||1||0
+2016-12-07 19:30:17.742412||error||collecting ads||Error||3||1
+2016-12-07 19:30:18.456460||error||collecting ads||Error||2||1
+2016-12-07 19:30:34.299111||measurement||loadtime||0:00:15.281326||0||0
+2016-12-07 19:30:35.681366||measurement||loadtime||0:00:12.934676||3||1
+2016-12-07 19:30:48.116397||measurement||loadtime||0:00:07.431580||3||1
+2016-12-07 19:31:01.619244||measurement||loadtime||0:00:08.497605||3||1
+2016-12-07 19:31:19.301593||error||collecting ads||Error||1||0
+2016-12-07 19:31:23.483859||error||collecting ads||Error||2||1
+2016-12-07 19:31:33.605608||measurement||loadtime||0:00:05.117924||2||1
+2016-12-07 19:31:39.332695||error||collecting ads||Error||0||0
+2016-12-07 19:31:44.334429||measurement||loadtime||0:00:05.723683||2||1
+2016-12-07 19:31:52.146688||measurement||loadtime||0:00:07.810410||0||0
+2016-12-07 19:31:57.092532||measurement||loadtime||0:00:07.752971||2||1
+2016-12-07 19:32:06.643047||error||collecting ads||Error||3||1
+2016-12-07 19:32:07.255967||measurement||loadtime||0:00:05.158494||2||1
+2016-12-07 19:32:24.313166||error||collecting ads||Error||1||0
+2016-12-07 19:32:57.177583||error||collecting ads||Error||0||0
+2016-12-07 19:33:07.714760||measurement||loadtime||0:00:05.533211||0||0
+2016-12-07 19:33:11.657924||error||collecting ads||Error||3||1
+2016-12-07 19:33:12.268725||error||collecting ads||Error||2||1
+2016-12-07 19:33:29.325002||error||collecting ads||Error||1||0
+2016-12-07 19:34:12.728341||error||collecting ads||Error||0||0
+2016-12-07 19:34:16.670811||error||collecting ads||Error||3||1
+2016-12-07 19:34:17.280840||error||collecting ads||Error||2||1
+2016-12-07 19:34:34.333038||error||collecting ads||Error||1||0
+2016-12-07 19:35:21.680636||error||collecting ads||Error||3||1
+2016-12-07 19:35:22.292356||error||collecting ads||Error||2||1
+2016-12-07 19:35:27.739873||error||collecting ads||Error||0||0
+2016-12-07 19:35:39.344439||error||collecting ads||Error||1||0
+2016-12-07 19:36:26.693137||error||collecting ads||Error||3||1
+2016-12-07 19:36:27.300988||error||collecting ads||Error||2||1
+2016-12-07 19:36:27.301143||event||progress-marker||measurement-end||2||1
+2016-12-07 19:36:32.752660||error||collecting ads||Error||0||0
+2016-12-07 19:36:44.354977||error||collecting ads||Error||1||0
+2016-12-07 19:37:37.760995||error||collecting ads||Error||0||0
+2016-12-07 19:37:37.761064||event||progress-marker||measurement-end||0||0
+2016-12-07 19:37:38.806493||error||collecting ads||Error||3||1
+2016-12-07 19:37:38.806557||event||progress-marker||measurement-end||3||1
+2016-12-07 19:37:49.367901||error||collecting ads||Error||1||0
+2016-12-07 19:38:54.379054||error||collecting ads||Error||1||0
+2016-12-07 19:39:59.389311||error||collecting ads||Error||1||0
+2016-12-07 19:39:59.389374||event||progress-marker||measurement-end||1||0
+2016-12-07 19:39:59.471627||meta||block_id end||9
+2016-12-07 19:39:59.471793||meta||block_id start||10
+2016-12-07 19:39:59.471827||meta||assignment||0@|2@|1@|3
+2016-12-07 19:40:01.503449||event||progress-marker||training-start||0||0
+2016-12-07 19:40:01.503531||event||progress-marker||training-end||0||0
+2016-12-07 19:40:01.754716||event||progress-marker||training-start||1||1
+2016-12-07 19:40:01.798770||event||progress-marker||training-start||2||0
+2016-12-07 19:40:01.798960||event||progress-marker||training-end||2||0
+2016-12-07 19:40:01.805029||event||progress-marker||training-start||3||1
+2016-12-07 19:40:18.489560||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 19:40:23.470697||treatment||visit website||http://fairvote.org||1||1
+2016-12-07 19:40:26.724273||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 19:40:32.617241||treatment||visit website||http://aceproject.org||1||1
+2016-12-07 19:40:35.158724||treatment||visit website||http://votenet.com||3||1
+2016-12-07 19:40:45.678720||treatment||visit website||http://votenet.com||1||1
+2016-12-07 19:40:48.593124||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 19:40:58.150647||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 19:40:58.662047||treatment||visit website||http://blackboxvoting.org||1||1
+2016-12-07 19:41:12.192253||treatment||visit website||http://ifes.org||3||1
+2016-12-07 19:41:15.973755||treatment||visit website||http://aristotle.com||1||1
+2016-12-07 19:41:19.522626||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 19:41:27.442656||treatment||visit website||http://ifes.org||1||1
+2016-12-07 19:41:28.490652||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 19:41:34.655140||treatment||visit website||http://completecampaigns.com||1||1
+2016-12-07 19:41:45.798637||treatment||visit website||http://bluestatedigital.com||1||1
+2016-12-07 19:41:56.778638||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 19:42:03.298670||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 19:42:14.206642||treatment||visit website||http://electoral-reform.org.uk||1||1
+2016-12-07 19:42:15.470644||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 19:42:20.616909||treatment||visit website||http://fidlar.com||1||1
+2016-12-07 19:42:26.234642||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 19:42:37.610655||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 19:42:38.758729||treatment||visit website||http://campaignsandelections.com||1||1
+2016-12-07 19:42:46.924174||treatment||visit website||http://onlinecandidate.com||3||1
+2016-12-07 19:42:49.854834||treatment||visit website||http://electionguide.org||1||1
+2016-12-07 19:42:55.362947||treatment||visit website||http://robodial.org||3||1
+2016-12-07 19:42:55.363039||event||progress-marker||training-end||3||1
+2016-12-07 19:43:00.310725||treatment||visit website||http://e-democracy.org||1||1
+2016-12-07 19:43:36.378683||treatment||visit website||http://onlinecandidate.com||1||1
+2016-12-07 19:43:44.050662||treatment||visit website||http://robodial.org||1||1
+2016-12-07 19:43:44.050761||event||progress-marker||training-end||1||1
+2016-12-07 19:43:45.437401||event||progress-marker||measurement-start||3||1
+2016-12-07 19:43:46.872129||event||progress-marker||measurement-start||0||0
+2016-12-07 19:43:47.174208||event||progress-marker||measurement-start||2||0
+2016-12-07 19:43:49.065200||event||progress-marker||measurement-start||1||1
+2016-12-07 19:44:11.861457||measurement||loadtime||0:00:17.792332||1||1
+2016-12-07 19:44:22.751228||measurement||loadtime||0:00:05.884684||1||1
+2016-12-07 19:44:50.469101||error||collecting ads||Error||3||1
+2016-12-07 19:44:51.897728||error||collecting ads||Error||0||0
+2016-12-07 19:44:52.214097||error||collecting ads||Error||2||0
+2016-12-07 19:45:27.823138||error||collecting ads||Error||1||1
+2016-12-07 19:45:55.503416||error||collecting ads||Error||3||1
+2016-12-07 19:45:56.914448||error||collecting ads||Error||0||0
+2016-12-07 19:45:57.268969||error||collecting ads||Error||2||0
+2016-12-07 19:46:11.275504||measurement||ad||2016-12-07 19:46:10.888945@|Medicare Part D@|exploreshops.net@|Looking For Medicare Part D? Find The Right Provider ||2||0
+2016-12-07 19:46:11.388177||measurement||loadtime||0:00:09.114564||2||0
+2016-12-07 19:46:32.870854||error||collecting ads||Error||1||1
+2016-12-07 19:46:43.054324||measurement||loadtime||0:00:05.179671||1||1
+2016-12-07 19:46:55.951451||measurement||loadtime||0:00:07.892813||1||1
+2016-12-07 19:47:00.549227||error||collecting ads||Error||3||1
+2016-12-07 19:47:11.170338||measurement||loadtime||0:00:05.616346||3||1
+2016-12-07 19:47:11.931224||error||collecting ads||Error||0||0
+2016-12-07 19:47:16.405974||error||collecting ads||Error||2||0
+2016-12-07 19:48:00.963672||error||collecting ads||Error||1||1
+2016-12-07 19:48:16.185132||error||collecting ads||Error||3||1
+2016-12-07 19:48:16.942348||error||collecting ads||Error||0||0
+2016-12-07 19:48:21.419695||error||collecting ads||Error||2||0
+2016-12-07 19:49:05.974952||error||collecting ads||Error||1||1
+2016-12-07 19:49:21.195826||error||collecting ads||Error||3||1
+2016-12-07 19:49:21.953384||error||collecting ads||Error||0||0
+2016-12-07 19:49:26.429733||error||collecting ads||Error||2||0
+2016-12-07 19:50:10.986530||error||collecting ads||Error||1||1
+2016-12-07 19:50:26.207369||error||collecting ads||Error||3||1
+2016-12-07 19:50:26.963825||error||collecting ads||Error||0||0
+2016-12-07 19:50:31.441525||error||collecting ads||Error||2||0
+2016-12-07 19:51:15.996466||error||collecting ads||Error||1||1
+2016-12-07 19:51:15.996532||event||progress-marker||measurement-end||1||1
+2016-12-07 19:51:31.220396||error||collecting ads||Error||3||1
+2016-12-07 19:51:31.970511||error||collecting ads||Error||0||0
+2016-12-07 19:51:36.453941||error||collecting ads||Error||2||0
+2016-12-07 19:52:36.229121||error||collecting ads||Error||3||1
+2016-12-07 19:52:36.979692||error||collecting ads||Error||0||0
+2016-12-07 19:52:41.464506||error||collecting ads||Error||2||0
+2016-12-07 19:53:41.237950||error||collecting ads||Error||3||1
+2016-12-07 19:53:41.238018||event||progress-marker||measurement-end||3||1
+2016-12-07 19:53:41.989711||error||collecting ads||Error||0||0
+2016-12-07 19:53:46.471850||error||collecting ads||Error||2||0
+2016-12-07 19:53:46.471900||event||progress-marker||measurement-end||2||0
+2016-12-07 19:54:46.994961||error||collecting ads||Error||0||0
+2016-12-07 19:54:46.995010||event||progress-marker||measurement-end||0||0
+2016-12-07 19:54:47.077991||meta||block_id end||10
+2016-12-07 19:54:47.078327||meta||block_id start||11
+2016-12-07 19:54:47.078376||meta||assignment||1@|2@|3@|0
+2016-12-07 19:54:49.011787||event||progress-marker||training-start||2||0
+2016-12-07 19:54:49.011872||event||progress-marker||training-end||2||0
+2016-12-07 19:54:49.046195||event||progress-marker||training-start||0||1
+2016-12-07 19:54:49.051675||event||progress-marker||training-start||1||0
+2016-12-07 19:54:49.051758||event||progress-marker||training-end||1||0
+2016-12-07 19:54:49.087890||event||progress-marker||training-start||3||1
+2016-12-07 19:55:04.874121||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 19:55:06.190624||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 19:55:12.705964||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 19:55:14.286628||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 19:55:21.850678||treatment||visit website||http://votenet.com||3||1
+2016-12-07 19:55:25.350634||treatment||visit website||http://votenet.com||0||1
+2016-12-07 19:55:31.582648||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 19:55:34.673878||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 19:55:42.301545||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 19:55:44.098714||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 19:55:55.942642||treatment||visit website||http://ifes.org||0||1
+2016-12-07 19:55:56.534858||treatment||visit website||http://ifes.org||3||1
+2016-12-07 19:56:03.332432||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 19:56:03.502670||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 19:56:13.096704||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 19:56:14.431350||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 19:56:29.742636||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 19:56:33.246731||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 19:56:35.749296||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 19:56:39.906947||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 19:56:46.655347||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 19:56:51.820398||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 19:56:56.450641||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 19:57:02.022634||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 19:57:10.393573||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 19:57:14.784972||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 19:57:19.369746||treatment||visit website||http://onlinecandidate.com||3||1
+2016-12-07 19:57:22.326720||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 19:57:26.378346||treatment||visit website||http://robodial.org||3||1
+2016-12-07 19:57:26.378420||event||progress-marker||training-end||3||1
+2016-12-07 19:57:29.374736||treatment||visit website||http://robodial.org||0||1
+2016-12-07 19:57:29.374818||event||progress-marker||training-end||0||1
+2016-12-07 19:57:31.386892||event||progress-marker||measurement-start||3||1
+2016-12-07 19:57:34.249140||event||progress-marker||measurement-start||2||0
+2016-12-07 19:57:34.294839||event||progress-marker||measurement-start||1||0
+2016-12-07 19:57:34.384988||event||progress-marker||measurement-start||0||1
+2016-12-07 19:57:51.558405||measurement||loadtime||0:00:12.168871||0||1
+2016-12-07 19:58:02.829805||measurement||loadtime||0:00:06.267100||0||1
+2016-12-07 19:58:13.817662||measurement||ad||2016-12-07 19:58:13.655066@|Medicare Part D@|exploreshops.net@|Looking For Medicare Part D? Find The Right Provider ||0||1
+2016-12-07 19:58:13.883024||measurement||loadtime||0:00:06.048993||0||1
+2016-12-07 19:58:22.718682||measurement||loadtime||0:00:03.834649||0||1
+2016-12-07 19:58:33.145067||measurement||loadtime||0:00:05.422409||0||1
+2016-12-07 19:58:36.419895||error||collecting ads||Error||3||1
+2016-12-07 19:58:39.275766||error||collecting ads||Error||2||0
+2016-12-07 19:58:39.351317||error||collecting ads||Error||1||0
+2016-12-07 19:58:53.553030||measurement||ad||2016-12-07 19:58:53.277375@|Are You Eligible for Aid?@|www.americanhoperesources.com@|Low Income Resource for US Citizens Suffering from Financial Hardship||2||0
+2016-12-07 19:58:53.553097||measurement||loadtime||0:00:09.272707||2||0
+2016-12-07 19:59:38.161213||error||collecting ads||Error||0||1
+2016-12-07 19:59:41.433374||error||collecting ads||Error||3||1
+2016-12-07 19:59:44.374236||error||collecting ads||Error||1||0
+2016-12-07 19:59:57.728822||measurement||loadtime||0:00:08.349461||1||0
+2016-12-07 19:59:58.565327||error||collecting ads||Error||2||0
+2016-12-07 20:00:08.211810||measurement||loadtime||0:00:05.478562||1||0
+2016-12-07 20:00:16.820196||measurement||ad||2016-12-07 20:00:16.670275@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||1||0
+2016-12-07 20:00:16.984441||measurement||loadtime||0:00:03.768350||1||0
+2016-12-07 20:00:25.708808||measurement||loadtime||0:00:03.722141||1||0
+2016-12-07 20:00:34.419150||measurement||loadtime||0:00:03.706605||1||0
+2016-12-07 20:00:42.755805||measurement||loadtime||0:00:03.333163||1||0
+2016-12-07 20:00:43.170957||error||collecting ads||Error||0||1
+2016-12-07 20:00:46.443342||error||collecting ads||Error||3||1
+2016-12-07 20:00:51.079145||measurement||loadtime||0:00:03.320442||1||0
+2016-12-07 20:01:01.140185||measurement||loadtime||0:00:05.057513||1||0
+2016-12-07 20:01:01.140232||event||progress-marker||measurement-end||1||0
+2016-12-07 20:01:03.574494||error||collecting ads||Error||2||0
+2016-12-07 20:01:48.182128||error||collecting ads||Error||0||1
+2016-12-07 20:01:51.449401||error||collecting ads||Error||3||1
+2016-12-07 20:02:08.582786||error||collecting ads||Error||2||0
+2016-12-07 20:02:53.192192||error||collecting ads||Error||0||1
+2016-12-07 20:02:56.458621||error||collecting ads||Error||3||1
+2016-12-07 20:03:13.591840||error||collecting ads||Error||2||0
+2016-12-07 20:03:58.203750||error||collecting ads||Error||0||1
+2016-12-07 20:03:58.203813||event||progress-marker||measurement-end||0||1
+2016-12-07 20:04:01.468170||error||collecting ads||Error||3||1
+2016-12-07 20:04:18.601528||error||collecting ads||Error||2||0
+2016-12-07 20:05:06.476886||error||collecting ads||Error||3||1
+2016-12-07 20:05:23.611705||error||collecting ads||Error||2||0
+2016-12-07 20:06:11.484647||error||collecting ads||Error||3||1
+2016-12-07 20:06:28.620211||error||collecting ads||Error||2||0
+2016-12-07 20:07:16.494523||error||collecting ads||Error||3||1
+2016-12-07 20:07:33.627562||error||collecting ads||Error||2||0
+2016-12-07 20:07:33.627610||event||progress-marker||measurement-end||2||0
+2016-12-07 20:08:21.504047||error||collecting ads||Error||3||1
+2016-12-07 20:08:21.504095||event||progress-marker||measurement-end||3||1
+2016-12-07 20:08:21.636777||meta||block_id end||11
+2016-12-07 20:08:21.636910||meta||block_id start||12
+2016-12-07 20:08:21.636927||meta||assignment||2@|1@|0@|3
+2016-12-07 20:08:23.681616||event||progress-marker||training-start||1||0
+2016-12-07 20:08:23.681699||event||progress-marker||training-end||1||0
+2016-12-07 20:08:23.869129||event||progress-marker||training-start||0||1
+2016-12-07 20:08:23.870040||event||progress-marker||training-start||3||1
+2016-12-07 20:08:23.882381||event||progress-marker||training-start||2||0
+2016-12-07 20:08:23.882457||event||progress-marker||training-end||2||0
+2016-12-07 20:08:41.180846||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 20:08:41.222643||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 20:08:49.786652||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 20:08:49.925046||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 20:09:02.222644||treatment||visit website||http://votenet.com||0||1
+2016-12-07 20:09:03.346643||treatment||visit website||http://votenet.com||3||1
+2016-12-07 20:09:13.902740||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 20:09:15.768840||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 20:09:25.872472||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 20:09:27.104772||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 20:09:37.938640||treatment||visit website||http://ifes.org||0||1
+2016-12-07 20:09:41.822633||treatment||visit website||http://ifes.org||3||1
+2016-12-07 20:09:45.574631||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 20:09:49.298697||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 20:09:55.590753||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 20:10:00.078672||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 20:10:13.783440||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 20:10:16.907211||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 20:10:20.439154||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 20:10:23.526633||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 20:10:32.754852||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 20:10:37.034642||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 20:10:42.450733||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 20:10:47.094645||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 20:10:52.498631||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 20:10:57.286667||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 20:10:59.806656||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 20:11:06.430624||treatment||visit website||http://onlinecandidate.com||3||1
+2016-12-07 20:11:07.759287||treatment||visit website||http://robodial.org||0||1
+2016-12-07 20:11:07.759362||event||progress-marker||training-end||0||1
+2016-12-07 20:11:13.342872||treatment||visit website||http://robodial.org||3||1
+2016-12-07 20:11:13.342971||event||progress-marker||training-end||3||1
+2016-12-07 20:11:14.009406||event||progress-marker||measurement-start||1||0
+2016-12-07 20:11:14.165176||event||progress-marker||measurement-start||2||0
+2016-12-07 20:11:17.779057||event||progress-marker||measurement-start||0||1
+2016-12-07 20:11:18.354163||event||progress-marker||measurement-start||3||1
+2016-12-07 20:12:19.033118||error||collecting ads||Error||1||0
+2016-12-07 20:12:19.199684||error||collecting ads||Error||2||0
+2016-12-07 20:12:23.013149||error||collecting ads||Error||0||1
+2016-12-07 20:12:23.378260||error||collecting ads||Error||3||1
+2016-12-07 20:12:37.409201||measurement||ad||2016-12-07 20:12:37.235304@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||3||1
+2016-12-07 20:12:37.483542||measurement||loadtime||0:00:09.100902||3||1
+2016-12-07 20:12:46.612282||measurement||loadtime||0:00:04.123730||3||1
+2016-12-07 20:12:58.836408||measurement||ad||2016-12-07 20:12:58.168626@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||3||1
+2016-12-07 20:12:58.930830||measurement||loadtime||0:00:07.315471||3||1
+2016-12-07 20:13:24.054502||error||collecting ads||Error||1||0
+2016-12-07 20:13:24.222446||error||collecting ads||Error||2||0
+2016-12-07 20:13:28.033351||error||collecting ads||Error||0||1
+2016-12-07 20:13:36.634181||measurement||ad||2016-12-07 20:13:36.500136@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||2||0
+2016-12-07 20:13:36.879635||measurement||loadtime||0:00:07.652398||2||0
+2016-12-07 20:13:39.258886||measurement||loadtime||0:00:06.220861||0||1
+2016-12-07 20:13:41.627162||measurement||loadtime||0:00:12.568054||1||0
+2016-12-07 20:13:47.302927||measurement||loadtime||0:00:05.419312||2||0
+2016-12-07 20:13:50.830681||measurement||loadtime||0:00:06.568000||0||1
+2016-12-07 20:13:57.663626||measurement||ad||2016-12-07 20:13:57.460329@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||2||0
+2016-12-07 20:13:57.920835||measurement||loadtime||0:00:05.614199||2||0
+2016-12-07 20:14:00.196694||measurement||loadtime||0:00:04.361989||0||1
+2016-12-07 20:14:03.945594||error||collecting ads||Error||3||1
+2016-12-07 20:14:08.520866||measurement||ad||2016-12-07 20:14:08.357286@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||2||0
+2016-12-07 20:14:08.753132||measurement||loadtime||0:00:05.828291||2||0
+2016-12-07 20:14:09.827627||measurement||loadtime||0:00:04.628928||0||1
+2016-12-07 20:14:20.464885||measurement||ad||2016-12-07 20:14:20.341954@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||0||1
+2016-12-07 20:14:20.605436||measurement||loadtime||0:00:05.774754||0||1
+2016-12-07 20:14:30.484537||measurement||loadtime||0:00:04.874533||0||1
+2016-12-07 20:14:46.655610||error||collecting ads||Error||1||0
+2016-12-07 20:14:56.938790||measurement||loadtime||0:00:05.278496||1||0
+2016-12-07 20:15:06.419367||measurement||loadtime||0:00:04.476706||1||0
+2016-12-07 20:15:08.956345||error||collecting ads||Error||3||1
+2016-12-07 20:15:13.782837||error||collecting ads||Error||2||0
+2016-12-07 20:15:24.332634||measurement||ad||2016-12-07 20:15:24.176113@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||2||0
+2016-12-07 20:15:24.402098||measurement||loadtime||0:00:05.614644||2||0
+2016-12-07 20:15:33.425775||measurement||loadtime||0:00:04.020722||2||0
+2016-12-07 20:15:35.513449||error||collecting ads||Error||0||1
+2016-12-07 20:15:42.990408||measurement||ad||2016-12-07 20:15:42.863278@|Online LL.M in 1 Year@|college.ch@|Online LL.M in International Business Law in 1 Year. No bachelor required. Learn more! ||2||0
+2016-12-07 20:15:43.142164||measurement||loadtime||0:00:04.711428||2||0
+2016-12-07 20:15:43.142285||event||progress-marker||measurement-end||2||0
+2016-12-07 20:16:11.438765||error||collecting ads||Error||1||0
+2016-12-07 20:16:13.965805||error||collecting ads||Error||3||1
+2016-12-07 20:16:20.919583||measurement||ad||2016-12-07 20:16:20.833690@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||1||0
+2016-12-07 20:16:21.070919||measurement||loadtime||0:00:04.628212||1||0
+2016-12-07 20:16:29.552747||measurement||loadtime||0:00:03.478058||1||0
+2016-12-07 20:16:39.628655||measurement||loadtime||0:00:05.071179||1||0
+2016-12-07 20:16:39.628701||event||progress-marker||measurement-end||1||0
+2016-12-07 20:16:40.523811||error||collecting ads||Error||0||1
+2016-12-07 20:16:40.524022||event||progress-marker||measurement-end||0||1
+2016-12-07 20:17:18.975721||error||collecting ads||Error||3||1
+2016-12-07 20:18:23.987958||error||collecting ads||Error||3||1
+2016-12-07 20:19:28.998391||error||collecting ads||Error||3||1
+2016-12-07 20:19:28.998440||event||progress-marker||measurement-end||3||1
+2016-12-07 20:19:29.091702||meta||block_id end||12
+2016-12-07 20:19:29.091832||meta||block_id start||13
+2016-12-07 20:19:29.091848||meta||assignment||1@|3@|0@|2
+2016-12-07 20:19:30.948307||event||progress-marker||training-start||3||0
+2016-12-07 20:19:30.948398||event||progress-marker||training-end||3||0
+2016-12-07 20:19:30.961861||event||progress-marker||training-start||1||0
+2016-12-07 20:19:30.961933||event||progress-marker||training-end||1||0
+2016-12-07 20:19:30.974945||event||progress-marker||training-start||2||1
+2016-12-07 20:19:31.098259||event||progress-marker||training-start||0||1
+2016-12-07 20:19:40.994628||treatment||visit website||http://fairvote.org||2||1
+2016-12-07 20:19:48.255443||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 20:19:49.226960||treatment||visit website||http://aceproject.org||2||1
+2016-12-07 20:19:56.054640||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 20:20:02.144112||treatment||visit website||http://votenet.com||2||1
+2016-12-07 20:20:04.214687||treatment||visit website||http://votenet.com||0||1
+2016-12-07 20:20:13.398819||treatment||visit website||http://blackboxvoting.org||2||1
+2016-12-07 20:20:14.188846||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 20:20:24.426231||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 20:20:25.373070||treatment||visit website||http://aristotle.com||2||1
+2016-12-07 20:20:33.836820||treatment||visit website||http://ifes.org||0||1
+2016-12-07 20:20:38.398676||treatment||visit website||http://ifes.org||2||1
+2016-12-07 20:20:41.091324||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 20:20:45.418093||treatment||visit website||http://completecampaigns.com||2||1
+2016-12-07 20:20:50.537773||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 20:20:53.646253||treatment||visit website||http://bluestatedigital.com||2||1
+2016-12-07 20:21:09.825285||treatment||visit website||http://electoral-reform.org.uk||2||1
+2016-12-07 20:21:10.258462||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 20:21:15.672142||treatment||visit website||http://fidlar.com||2||1
+2016-12-07 20:21:16.199494||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 20:21:26.638634||treatment||visit website||http://campaignsandelections.com||2||1
+2016-12-07 20:21:26.898706||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 20:21:35.614641||treatment||visit website||http://electionguide.org||2||1
+2016-12-07 20:21:36.266648||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 20:21:43.879724||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 20:21:45.677296||treatment||visit website||http://e-democracy.org||2||1
+2016-12-07 20:21:53.479493||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 20:21:54.806643||treatment||visit website||http://onlinecandidate.com||2||1
+2016-12-07 20:22:00.730707||treatment||visit website||http://robodial.org||0||1
+2016-12-07 20:22:00.730780||event||progress-marker||training-end||0||1
+2016-12-07 20:22:02.005639||treatment||visit website||http://robodial.org||2||1
+2016-12-07 20:22:02.005707||event||progress-marker||training-end||2||1
+2016-12-07 20:22:05.741604||event||progress-marker||measurement-start||0||1
+2016-12-07 20:22:06.181337||event||progress-marker||measurement-start||3||0
+2016-12-07 20:22:06.193717||event||progress-marker||measurement-start||1||0
+2016-12-07 20:22:07.013130||event||progress-marker||measurement-start||2||1
+2016-12-07 20:22:25.206875||measurement||ad||2016-12-07 20:22:24.691479@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||2||1
+2016-12-07 20:22:25.341999||measurement||loadtime||0:00:13.327342||2||1
+2016-12-07 20:22:37.954799||measurement||loadtime||0:00:07.608104||2||1
+2016-12-07 20:23:10.763130||error||collecting ads||Error||0||1
+2016-12-07 20:23:11.204471||error||collecting ads||Error||3||0
+2016-12-07 20:23:11.225575||error||collecting ads||Error||1||0
+2016-12-07 20:23:23.539200||measurement||ad||2016-12-07 20:23:23.042790@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||1||0
+2016-12-07 20:23:23.737761||measurement||loadtime||0:00:07.507122||1||0
+2016-12-07 20:23:24.520248||measurement||ad||2016-12-07 20:23:24.434730@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||0||1
+2016-12-07 20:23:24.651197||measurement||loadtime||0:00:08.884535||0||1
+2016-12-07 20:23:36.339339||measurement||loadtime||0:00:07.600909||1||0
+2016-12-07 20:23:38.011875||measurement||loadtime||0:00:08.357222||0||1
+2016-12-07 20:23:42.971213||error||collecting ads||Error||2||1
+2016-12-07 20:23:53.234677||measurement||ad||2016-12-07 20:23:52.781971@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||0||1
+2016-12-07 20:23:53.363320||measurement||loadtime||0:00:10.346873||0||1
+2016-12-07 20:24:01.429868||measurement||ad||2016-12-07 20:24:01.349652@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||0||1
+2016-12-07 20:24:01.554197||measurement||loadtime||0:00:03.186205||0||1
+2016-12-07 20:24:15.573931||measurement||ad||2016-12-07 20:24:15.096777@|Why Invest In Commodities@|claimrating.com@|Invest Assets In The Right Index Funds! Learn About Investment Services  Commodities. ||0||1
+2016-12-07 20:24:15.702525||measurement||loadtime||0:00:09.143888||0||1
+2016-12-07 20:24:16.222956||error||collecting ads||Error||3||0
+2016-12-07 20:24:25.202411||measurement||ad||2016-12-07 20:24:25.076968@|Why Invest In Commodities@|claimrating.com@|Invest Assets In The Right Index Funds! Learn About Investment Services  Commodities. ||0||1
+2016-12-07 20:24:25.395763||measurement||loadtime||0:00:04.688951||0||1
+2016-12-07 20:24:27.128148||measurement||ad||2016-12-07 20:24:27.038990@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||3||0
+2016-12-07 20:24:27.275888||measurement||loadtime||0:00:06.047889||3||0
+2016-12-07 20:24:33.982695||measurement||ad||2016-12-07 20:24:33.871287@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||0||1
+2016-12-07 20:24:34.135830||measurement||loadtime||0:00:03.737087||0||1
+2016-12-07 20:24:41.355756||error||collecting ads||Error||1||0
+2016-12-07 20:24:42.588808||measurement||ad||2016-12-07 20:24:42.309725@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||3||0
+2016-12-07 20:24:42.716983||measurement||loadtime||0:00:10.436705||3||0
+2016-12-07 20:24:47.983543||error||collecting ads||Error||2||1
+2016-12-07 20:24:51.383388||measurement||loadtime||0:00:03.665416||3||0
+2016-12-07 20:25:01.830271||measurement||loadtime||0:00:05.443706||3||0
+2016-12-07 20:25:13.949386||measurement||ad||2016-12-07 20:25:13.516808@|Online LL.M in 1 Year@|college.ch@|Online LL.M in International Business Law in 1 Year. No bachelor required. Learn more! ||3||0
+2016-12-07 20:25:14.067091||measurement||loadtime||0:00:07.231689||3||0
+2016-12-07 20:25:22.325438||measurement||ad||2016-12-07 20:25:21.906235@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||3||0
+2016-12-07 20:25:22.484753||measurement||loadtime||0:00:03.414085||3||0
+2016-12-07 20:25:31.381536||measurement||ad||2016-12-07 20:25:31.245531@|Why Invest In Commodities@|claimrating.com@|Invest Assets In The Right Index Funds! Learn About Investment Services  Commodities. ||3||0
+2016-12-07 20:25:31.445269||measurement||loadtime||0:00:03.955892||3||0
+2016-12-07 20:25:39.149347||error||collecting ads||Error||0||1
+2016-12-07 20:25:46.361303||error||collecting ads||Error||1||0
+2016-12-07 20:25:52.993008||error||collecting ads||Error||2||1
+2016-12-07 20:26:36.465980||error||collecting ads||Error||3||0
+2016-12-07 20:26:36.466042||event||progress-marker||measurement-end||3||0
+2016-12-07 20:26:44.156017||error||collecting ads||Error||0||1
+2016-12-07 20:26:44.156083||event||progress-marker||measurement-end||0||1
+2016-12-07 20:26:51.371168||error||collecting ads||Error||1||0
+2016-12-07 20:26:58.000384||error||collecting ads||Error||2||1
+2016-12-07 20:27:56.382467||error||collecting ads||Error||1||0
+2016-12-07 20:28:03.010822||error||collecting ads||Error||2||1
+2016-12-07 20:29:01.390336||error||collecting ads||Error||1||0
+2016-12-07 20:29:08.024888||error||collecting ads||Error||2||1
+2016-12-07 20:30:06.401560||error||collecting ads||Error||1||0
+2016-12-07 20:30:13.033276||error||collecting ads||Error||2||1
+2016-12-07 20:31:11.412136||error||collecting ads||Error||1||0
+2016-12-07 20:31:11.412251||event||progress-marker||measurement-end||1||0
+2016-12-07 20:31:18.040426||error||collecting ads||Error||2||1
+2016-12-07 20:31:18.040483||event||progress-marker||measurement-end||2||1
+2016-12-07 20:31:18.143708||meta||block_id end||13
+2016-12-07 20:31:18.143851||meta||block_id start||14
+2016-12-07 20:31:18.143864||meta||assignment||1@|2@|3@|0
+2016-12-07 20:31:19.951651||event||progress-marker||training-start||3||1
+2016-12-07 20:31:20.141572||event||progress-marker||training-start||1||0
+2016-12-07 20:31:20.141644||event||progress-marker||training-end||1||0
+2016-12-07 20:31:20.186430||event||progress-marker||training-start||2||0
+2016-12-07 20:31:20.186511||event||progress-marker||training-end||2||0
+2016-12-07 20:31:20.256910||event||progress-marker||training-start||0||1
+2016-12-07 20:31:37.379268||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 20:31:38.178811||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 20:31:45.493343||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 20:31:46.245693||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 20:31:54.355078||treatment||visit website||http://votenet.com||3||1
+2016-12-07 20:31:55.403344||treatment||visit website||http://votenet.com||0||1
+2016-12-07 20:32:05.477860||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 20:32:05.494629||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 20:32:15.016425||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 20:32:15.406640||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 20:32:25.323632||treatment||visit website||http://ifes.org||3||1
+2016-12-07 20:32:28.590114||treatment||visit website||http://ifes.org||0||1
+2016-12-07 20:32:32.542639||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 20:32:35.812315||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 20:32:41.230629||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 20:32:45.210671||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 20:32:57.771010||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 20:33:03.214752||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 20:33:04.843564||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 20:33:09.542645||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 20:33:15.614641||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 20:33:20.690652||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 20:33:25.866670||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 20:33:29.690637||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 20:33:33.122707||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 20:33:40.318669||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 20:33:40.439143||treatment||visit website||http://onlinecandidate.com||3||1
+2016-12-07 20:33:47.502665||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 20:33:48.726151||treatment||visit website||http://robodial.org||3||1
+2016-12-07 20:33:48.726238||event||progress-marker||training-end||3||1
+2016-12-07 20:33:54.614983||treatment||visit website||http://robodial.org||0||1
+2016-12-07 20:33:54.615053||event||progress-marker||training-end||0||1
+2016-12-07 20:33:55.406592||event||progress-marker||measurement-start||1||0
+2016-12-07 20:33:55.431729||event||progress-marker||measurement-start||2||0
+2016-12-07 20:33:58.750669||event||progress-marker||measurement-start||3||1
+2016-12-07 20:33:59.626286||event||progress-marker||measurement-start||0||1
+2016-12-07 20:34:18.509825||measurement||loadtime||0:00:14.754371||3||1
+2016-12-07 20:35:00.443023||error||collecting ads||Error||1||0
+2016-12-07 20:35:00.470807||error||collecting ads||Error||2||0
+2016-12-07 20:35:04.652243||error||collecting ads||Error||0||1
+2016-12-07 20:35:08.573170||measurement||loadtime||0:00:03.098530||2||0
+2016-12-07 20:35:18.252774||measurement||ad||2016-12-07 20:35:17.586093@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||1||0
+2016-12-07 20:35:18.252940||measurement||loadtime||0:00:12.805605||1||0
+2016-12-07 20:35:23.548670||error||collecting ads||Error||3||1
+2016-12-07 20:35:31.866944||measurement||loadtime||0:00:08.609230||1||0
+2016-12-07 20:35:34.935900||measurement||ad||2016-12-07 20:35:34.488100@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||3||1
+2016-12-07 20:35:35.087012||measurement||loadtime||0:00:06.535843||3||1
+2016-12-07 20:35:44.941300||measurement||loadtime||0:00:08.070555||1||0
+2016-12-07 20:35:48.196893||measurement||loadtime||0:00:08.108102||3||1
+2016-12-07 20:35:59.983191||measurement||ad||2016-12-07 20:35:59.855541@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||1||0
+2016-12-07 20:36:00.163238||measurement||ad||2016-12-07 20:35:59.855541@|Medicare Part D@|exploreshops.net@|Looking For Medicare Part D? Find The Right Provider ||1||0
+2016-12-07 20:36:00.163412||measurement||loadtime||0:00:10.217320||1||0
+2016-12-07 20:36:09.685136||error||collecting ads||Error||0||1
+2016-12-07 20:36:12.699322||measurement||ad||2016-12-07 20:36:12.540079@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||1||0
+2016-12-07 20:36:12.775713||measurement||loadtime||0:00:07.607194||1||0
+2016-12-07 20:36:13.592117||error||collecting ads||Error||2||0
+2016-12-07 20:36:23.230503||measurement||ad||2016-12-07 20:36:22.996926@|Productivity Platform@|www.glip.com@|Organize Work Around Conversations, Not Email. Get Started Today Free!||1||0
+2016-12-07 20:36:23.401027||measurement||loadtime||0:00:05.620330||1||0
+2016-12-07 20:36:25.335744||measurement||loadtime||0:00:06.738910||2||0
+2016-12-07 20:36:33.403486||measurement||ad||2016-12-07 20:36:32.609218@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||1||0
+2016-12-07 20:36:33.526827||measurement||loadtime||0:00:05.120459||1||0
+2016-12-07 20:36:35.609226||measurement||loadtime||0:00:05.270464||2||0
+2016-12-07 20:36:48.059477||measurement||ad||2016-12-07 20:36:47.958348@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||2||0
+2016-12-07 20:36:48.275805||measurement||loadtime||0:00:07.662722||2||0
+2016-12-07 20:36:53.229885||error||collecting ads||Error||3||1
+2016-12-07 20:37:03.543384||measurement||ad||2016-12-07 20:37:02.894671@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||3||1
+2016-12-07 20:37:03.595978||measurement||loadtime||0:00:10.315060||2||0
+2016-12-07 20:37:03.655697||measurement||loadtime||0:00:05.420793||3||1
+2016-12-07 20:37:14.708323||error||collecting ads||Error||0||1
+2016-12-07 20:37:27.084744||measurement||loadtime||0:00:07.371012||0||1
+2016-12-07 20:37:38.138404||measurement||loadtime||0:00:06.048914||0||1
+2016-12-07 20:37:38.545846||error||collecting ads||Error||1||0
+2016-12-07 20:37:47.532168||measurement||loadtime||0:00:04.389507||0||1
+2016-12-07 20:37:47.954961||measurement||ad||2016-12-07 20:37:47.796974@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||1||0
+2016-12-07 20:37:48.030685||measurement||loadtime||0:00:04.479761||1||0
+2016-12-07 20:37:48.030743||event||progress-marker||measurement-end||1||0
+2016-12-07 20:37:55.842729||measurement||loadtime||0:00:03.309659||0||1
+2016-12-07 20:38:04.525216||measurement||ad||2016-12-07 20:38:04.437927@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||0||1
+2016-12-07 20:38:04.653463||measurement||loadtime||0:00:03.805902||0||1
+2016-12-07 20:38:08.613598||error||collecting ads||Error||2||0
+2016-12-07 20:38:08.681344||error||collecting ads||Error||3||1
+2016-12-07 20:38:13.277036||measurement||ad||2016-12-07 20:38:13.090908@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||0||1
+2016-12-07 20:38:13.277110||measurement||loadtime||0:00:03.618552||0||1
+2016-12-07 20:38:17.573668||measurement||loadtime||0:00:03.957731||2||0
+2016-12-07 20:38:22.072674||measurement||loadtime||0:00:03.791321||0||1
+2016-12-07 20:38:22.072720||event||progress-marker||measurement-end||0||1
+2016-12-07 20:38:22.258513||measurement||ad||2016-12-07 20:38:21.790739@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||3||1
+2016-12-07 20:38:22.383008||measurement||loadtime||0:00:08.700341||3||1
+2016-12-07 20:38:26.458170||measurement||ad||2016-12-07 20:38:26.386239@|Masters of Laws Degree@|college.ch/LLM-in-One-Year@|British Online LLM in International Business Law. Get a Free Trial!||2||0
+2016-12-07 20:38:26.573096||measurement||loadtime||0:00:03.997790||2||0
+2016-12-07 20:38:26.573136||event||progress-marker||measurement-end||2||0
+2016-12-07 20:38:30.999643||measurement||ad||2016-12-07 20:38:30.868935@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||3||1
+2016-12-07 20:38:31.062850||measurement||loadtime||0:00:03.674739||3||1
+2016-12-07 20:38:39.971511||measurement||loadtime||0:00:03.903500||3||1
+2016-12-07 20:38:39.971558||event||progress-marker||measurement-end||3||1
+2016-12-07 20:38:40.075655||meta||block_id end||14
+2016-12-07 20:38:40.075794||meta||block_id start||15
+2016-12-07 20:38:40.075806||meta||assignment||1@|0@|2@|3
+2016-12-07 20:38:41.751608||event||progress-marker||training-start||1||0
+2016-12-07 20:38:41.751697||event||progress-marker||training-end||1||0
+2016-12-07 20:38:42.000403||event||progress-marker||training-start||3||1
+2016-12-07 20:38:42.018822||event||progress-marker||training-start||2||1
+2016-12-07 20:38:42.107805||event||progress-marker||training-start||0||0
+2016-12-07 20:38:42.107889||event||progress-marker||training-end||0||0
+2016-12-07 20:39:00.073163||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 20:39:00.686492||treatment||visit website||http://fairvote.org||2||1
+2016-12-07 20:39:08.113553||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 20:39:08.830691||treatment||visit website||http://aceproject.org||2||1
+2016-12-07 20:39:16.325559||treatment||visit website||http://votenet.com||2||1
+2016-12-07 20:39:16.459784||treatment||visit website||http://votenet.com||3||1
+2016-12-07 20:39:26.210281||treatment||visit website||http://blackboxvoting.org||2||1
+2016-12-07 20:39:28.758640||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 20:39:36.330600||treatment||visit website||http://aristotle.com||2||1
+2016-12-07 20:39:39.927480||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 20:39:46.495990||treatment||visit website||http://ifes.org||2||1
+2016-12-07 20:39:50.648454||treatment||visit website||http://ifes.org||3||1
+2016-12-07 20:39:53.880716||treatment||visit website||http://completecampaigns.com||2||1
+2016-12-07 20:39:57.670637||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 20:40:02.298632||treatment||visit website||http://bluestatedigital.com||2||1
+2016-12-07 20:40:06.309283||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 20:40:17.107172||treatment||visit website||http://electoral-reform.org.uk||2||1
+2016-12-07 20:40:20.546884||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 20:40:23.538381||treatment||visit website||http://fidlar.com||2||1
+2016-12-07 20:40:26.990642||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 20:40:34.365787||treatment||visit website||http://campaignsandelections.com||2||1
+2016-12-07 20:40:38.328293||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 20:40:43.256765||treatment||visit website||http://electionguide.org||2||1
+2016-12-07 20:40:52.286690||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 20:40:53.214646||treatment||visit website||http://e-democracy.org||2||1
+2016-12-07 20:41:00.346678||treatment||visit website||http://onlinecandidate.com||2||1
+2016-12-07 20:41:02.050642||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 20:41:07.706430||treatment||visit website||http://robodial.org||2||1
+2016-12-07 20:41:07.706536||event||progress-marker||training-end||2||1
+2016-12-07 20:41:09.339546||treatment||visit website||http://onlinecandidate.com||3||1
+2016-12-07 20:41:16.578677||treatment||visit website||http://robodial.org||3||1
+2016-12-07 20:41:16.578746||event||progress-marker||training-end||3||1
+2016-12-07 20:41:17.008776||event||progress-marker||measurement-start||1||0
+2016-12-07 20:41:17.343194||event||progress-marker||measurement-start||0||0
+2016-12-07 20:41:17.727631||event||progress-marker||measurement-start||2||1
+2016-12-07 20:41:21.590469||event||progress-marker||measurement-start||3||1
+2016-12-07 20:42:22.037371||error||collecting ads||Error||1||0
+2016-12-07 20:42:22.386458||error||collecting ads||Error||0||0
+2016-12-07 20:42:22.760856||error||collecting ads||Error||2||1
+2016-12-07 20:42:35.111732||error||collecting ads||Error||3||1
+2016-12-07 20:42:42.012499||measurement||ad||2016-12-07 20:42:41.673277@|Master of Laws Online@|college.ch/LLM-in-One-Year@|Online LLM in International Business Law. Get Free Trial||1||0
+2016-12-07 20:42:42.143895||measurement||loadtime||0:00:15.104585||1||0
+2016-12-07 20:42:50.959223||measurement||loadtime||0:00:10.842952||3||1
+2016-12-07 20:42:53.327868||measurement||loadtime||0:00:06.179312||1||0
+2016-12-07 20:43:05.703224||measurement||loadtime||0:00:07.370216||1||0
+2016-12-07 20:43:27.442186||error||collecting ads||Error||0||0
+2016-12-07 20:43:27.793390||error||collecting ads||Error||2||1
+2016-12-07 20:43:42.840788||measurement||ad||2016-12-07 20:43:42.727673@|Online LL.M in 1 Year@|college.ch@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||2||1
+2016-12-07 20:43:43.098147||measurement||loadtime||0:00:10.299941||2||1
+2016-12-07 20:43:55.983819||error||collecting ads||Error||3||1
+2016-12-07 20:43:56.166877||measurement||loadtime||0:00:08.065895||2||1
+2016-12-07 20:44:06.660220||measurement||loadtime||0:00:05.489540||2||1
+2016-12-07 20:44:07.425336||measurement||loadtime||0:00:06.438700||3||1
+2016-12-07 20:44:10.726167||error||collecting ads||Error||1||0
+2016-12-07 20:44:16.039589||measurement||loadtime||0:00:04.374258||2||1
+2016-12-07 20:44:21.502108||measurement||loadtime||0:00:05.771458||1||0
+2016-12-07 20:44:22.991372||measurement||loadtime||0:00:10.564711||3||1
+2016-12-07 20:44:25.249001||measurement||ad||2016-12-07 20:44:25.100956@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||2||1
+2016-12-07 20:44:25.314734||measurement||loadtime||0:00:04.272097||2||1
+2016-12-07 20:44:31.313927||measurement||loadtime||0:00:04.807132||1||0
+2016-12-07 20:44:32.496521||error||collecting ads||Error||0||0
+2016-12-07 20:44:43.175084||measurement||loadtime||0:00:05.676445||0||0
+2016-12-07 20:45:28.012500||error||collecting ads||Error||3||1
+2016-12-07 20:45:30.340247||error||collecting ads||Error||2||1
+2016-12-07 20:45:36.349626||error||collecting ads||Error||1||0
+2016-12-07 20:45:46.108346||measurement||loadtime||0:00:04.753662||1||0
+2016-12-07 20:45:46.924660||measurement||loadtime||0:00:13.911496||3||1
+2016-12-07 20:45:48.198525||error||collecting ads||Error||0||0
+2016-12-07 20:45:57.085339||measurement||loadtime||0:00:05.974804||1||0
+2016-12-07 20:45:57.085407||event||progress-marker||measurement-end||1||0
+2016-12-07 20:45:59.340196||measurement||loadtime||0:00:07.410977||3||1
+2016-12-07 20:46:00.159935||measurement||ad||2016-12-07 20:46:00.035521@|Online LL.M in 1 Year@|college.ch/catalogue@|Online Master of Laws in 1 Year. No bachelor required. Do you want to know more? ||0||0
+2016-12-07 20:46:00.381353||measurement||loadtime||0:00:07.178684||0||0
+2016-12-07 20:46:10.147689||measurement||loadtime||0:00:05.803583||3||1
+2016-12-07 20:46:10.909859||measurement||ad||2016-12-07 20:46:10.699952@|Online Master in Law@|college.ch/Catalogue@|Master of Laws in International Business Law. Get a Free Trial!||0||0
+2016-12-07 20:46:10.979417||measurement||loadtime||0:00:05.596720||0||0
+2016-12-07 20:46:20.660656||measurement||loadtime||0:00:05.509994||3||1
+2016-12-07 20:46:20.660732||event||progress-marker||measurement-end||3||1
+2016-12-07 20:46:21.855883||measurement||loadtime||0:00:05.871948||0||0
+2016-12-07 20:46:30.856071||measurement||loadtime||0:00:03.996695||0||0
+2016-12-07 20:46:35.365900||error||collecting ads||Error||2||1
+2016-12-07 20:46:44.134749||measurement||loadtime||0:00:08.276091||0||0
+2016-12-07 20:46:44.134822||event||progress-marker||measurement-end||0||0
+2016-12-07 20:46:44.400663||measurement||loadtime||0:00:04.030008||2||1
+2016-12-07 20:46:44.400705||event||progress-marker||measurement-end||2||1
+2016-12-07 20:46:44.526525||meta||block_id end||15
+2016-12-07 20:46:44.526684||meta||block_id start||16
+2016-12-07 20:46:44.526703||meta||assignment||2@|3@|0@|1
+2016-12-07 20:46:46.528699||event||progress-marker||training-start||1||1
+2016-12-07 20:46:46.578733||event||progress-marker||training-start||0||1
+2016-12-07 20:46:46.580266||event||progress-marker||training-start||3||0
+2016-12-07 20:46:46.580341||event||progress-marker||training-end||3||0
+2016-12-07 20:46:46.685003||event||progress-marker||training-start||2||0
+2016-12-07 20:46:46.685081||event||progress-marker||training-end||2||0
+2016-12-07 20:47:04.192163||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 20:47:04.339088||treatment||visit website||http://fairvote.org||1||1
+2016-12-07 20:47:12.032420||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 20:47:16.996869||treatment||visit website||http://aceproject.org||1||1
+2016-12-07 20:47:20.078636||treatment||visit website||http://votenet.com||0||1
+2016-12-07 20:47:25.027294||treatment||visit website||http://votenet.com||1||1
+2016-12-07 20:47:31.327530||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 20:47:36.966672||treatment||visit website||http://blackboxvoting.org||1||1
+2016-12-07 20:47:40.250761||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 20:47:46.804842||treatment||visit website||http://aristotle.com||1||1
+2016-12-07 20:47:49.714636||treatment||visit website||http://ifes.org||0||1
+2016-12-07 20:47:57.038658||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 20:48:00.682663||treatment||visit website||http://ifes.org||1||1
+2016-12-07 20:48:06.952060||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 20:48:07.980366||treatment||visit website||http://completecampaigns.com||1||1
+2016-12-07 20:48:16.899237||treatment||visit website||http://bluestatedigital.com||1||1
+2016-12-07 20:48:23.194632||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 20:48:29.394188||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 20:48:36.476843||treatment||visit website||http://electoral-reform.org.uk||1||1
+2016-12-07 20:48:40.224967||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 20:48:42.378637||treatment||visit website||http://fidlar.com||1||1
+2016-12-07 20:48:49.902639||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 20:48:53.394631||treatment||visit website||http://campaignsandelections.com||1||1
+2016-12-07 20:49:00.009223||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 20:49:04.350641||treatment||visit website||http://electionguide.org||1||1
+2016-12-07 20:49:08.349582||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 20:49:14.302566||treatment||visit website||http://e-democracy.org||1||1
+2016-12-07 20:49:15.509413||treatment||visit website||http://robodial.org||0||1
+2016-12-07 20:49:15.509476||event||progress-marker||training-end||0||1
+2016-12-07 20:49:54.313641||error||website timeout||http://onlinecandidate.com||1||1
+2016-12-07 20:50:01.502632||treatment||visit website||http://robodial.org||1||1
+2016-12-07 20:50:01.502705||event||progress-marker||training-end||1||1
+2016-12-07 20:50:01.910327||event||progress-marker||measurement-start||3||0
+2016-12-07 20:50:02.024115||event||progress-marker||measurement-start||2||0
+2016-12-07 20:50:05.601880||event||progress-marker||measurement-start||0||1
+2016-12-07 20:50:06.517782||event||progress-marker||measurement-start||1||1
+2016-12-07 20:51:06.940005||error||collecting ads||Error||3||0
+2016-12-07 20:51:07.107167||error||collecting ads||Error||2||0
+2016-12-07 20:51:10.628241||error||collecting ads||Error||0||1
+2016-12-07 20:51:11.553559||error||collecting ads||Error||1||1
+2016-12-07 20:52:11.973270||error||collecting ads||Error||3||0
+2016-12-07 20:52:12.121448||error||collecting ads||Error||2||0
+2016-12-07 20:52:15.679077||error||collecting ads||Error||0||1
+2016-12-07 20:52:16.580713||error||collecting ads||Error||1||1
+2016-12-07 20:52:28.774178||measurement||loadtime||0:00:11.796877||3||0
+2016-12-07 20:52:32.723470||measurement||ad||2016-12-07 20:52:32.395309@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||1||1
+2016-12-07 20:52:33.045934||measurement||loadtime||0:00:11.461175||1||1
+2016-12-07 20:52:39.429195||measurement||loadtime||0:00:05.650427||3||0
+2016-12-07 20:52:42.476356||measurement||loadtime||0:00:04.425313||1||1
+2016-12-07 20:52:51.290180||measurement||loadtime||0:00:06.856003||3||0
+2016-12-07 20:52:53.149287||measurement||ad||2016-12-07 20:52:53.000112@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||1||1
+2016-12-07 20:52:53.334122||measurement||loadtime||0:00:05.853016||1||1
+2016-12-07 20:53:03.375724||measurement||ad||2016-12-07 20:53:03.115655@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||1||1
+2016-12-07 20:53:03.461247||measurement||loadtime||0:00:05.122534||1||1
+2016-12-07 20:53:04.982798||measurement||loadtime||0:00:08.689508||3||0
+2016-12-07 20:53:14.797882||measurement||loadtime||0:00:04.811073||3||0
+2016-12-07 20:53:17.133672||error||collecting ads||Error||2||0
+2016-12-07 20:53:20.712709||error||collecting ads||Error||0||1
+2016-12-07 20:53:25.444972||measurement||loadtime||0:00:05.642160||3||0
+2016-12-07 20:53:33.770305||measurement||loadtime||0:00:08.052555||0||1
+2016-12-07 20:53:36.365803||measurement||loadtime||0:00:05.919146||3||0
+2016-12-07 20:53:45.529556||measurement||loadtime||0:00:04.158849||3||0
+2016-12-07 20:53:45.529613||event||progress-marker||measurement-end||3||0
+2016-12-07 20:53:46.996147||measurement||loadtime||0:00:08.221465||0||1
+2016-12-07 20:54:00.673535||measurement||ad||2016-12-07 20:54:00.528581@|Why Invest In Commodities@|claimrating.com@|Invest Assets In The Right Index Funds! Learn About Investment Services  Commodities. ||0||1
+2016-12-07 20:54:00.744585||measurement||loadtime||0:00:08.743911||0||1
+2016-12-07 20:54:08.484766||error||collecting ads||Error||1||1
+2016-12-07 20:54:19.846904||measurement||ad||2016-12-07 20:54:19.373298@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||1||1
+2016-12-07 20:54:19.994325||measurement||loadtime||0:00:06.507683||1||1
+2016-12-07 20:54:22.145450||error||collecting ads||Error||2||0
+2016-12-07 20:54:32.762910||measurement||loadtime||0:00:07.764438||1||1
+2016-12-07 20:54:41.644849||measurement||loadtime||0:00:03.876838||1||1
+2016-12-07 20:54:41.644898||event||progress-marker||measurement-end||1||1
+2016-12-07 20:55:05.753836||error||collecting ads||Error||0||1
+2016-12-07 20:55:37.155458||error||collecting ads||Error||2||0
+2016-12-07 20:56:10.763243||error||collecting ads||Error||0||1
+2016-12-07 20:56:42.166641||error||collecting ads||Error||2||0
+2016-12-07 20:57:15.776671||error||collecting ads||Error||0||1
+2016-12-07 20:57:47.177228||error||collecting ads||Error||2||0
+2016-12-07 20:58:20.787171||error||collecting ads||Error||0||1
+2016-12-07 20:58:20.787230||event||progress-marker||measurement-end||0||1
+2016-12-07 20:58:52.183597||error||collecting ads||Error||2||0
+2016-12-07 20:59:57.193734||error||collecting ads||Error||2||0
+2016-12-07 21:01:02.203201||error||collecting ads||Error||2||0
+2016-12-07 21:01:02.203257||event||progress-marker||measurement-end||2||0
+2016-12-07 21:01:02.266455||meta||block_id end||16
+2016-12-07 21:01:02.266598||meta||block_id start||17
+2016-12-07 21:01:02.266611||meta||assignment||3@|2@|0@|1
+2016-12-07 21:01:03.956816||event||progress-marker||training-start||1||1
+2016-12-07 21:01:04.210784||event||progress-marker||training-start||3||0
+2016-12-07 21:01:04.210865||event||progress-marker||training-end||3||0
+2016-12-07 21:01:04.266167||event||progress-marker||training-start||0||1
+2016-12-07 21:01:04.273577||event||progress-marker||training-start||2||0
+2016-12-07 21:01:04.273656||event||progress-marker||training-end||2||0
+2016-12-07 21:01:21.194256||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 21:01:22.216226||treatment||visit website||http://fairvote.org||1||1
+2016-12-07 21:01:29.094855||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 21:01:30.084616||treatment||visit website||http://aceproject.org||1||1
+2016-12-07 21:01:38.802257||treatment||visit website||http://votenet.com||1||1
+2016-12-07 21:01:39.925258||treatment||visit website||http://votenet.com||0||1
+2016-12-07 21:01:50.732687||treatment||visit website||http://blackboxvoting.org||1||1
+2016-12-07 21:01:53.467528||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 21:01:59.671189||treatment||visit website||http://aristotle.com||1||1
+2016-12-07 21:02:02.593039||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 21:02:13.102678||treatment||visit website||http://ifes.org||0||1
+2016-12-07 21:02:13.370740||treatment||visit website||http://ifes.org||1||1
+2016-12-07 21:02:20.282646||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 21:02:20.594135||treatment||visit website||http://completecampaigns.com||1||1
+2016-12-07 21:02:30.926624||treatment||visit website||http://bluestatedigital.com||1||1
+2016-12-07 21:02:31.124235||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 21:02:48.010835||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 21:02:48.036178||treatment||visit website||http://electoral-reform.org.uk||1||1
+2016-12-07 21:02:54.631560||treatment||visit website||http://fidlar.com||1||1
+2016-12-07 21:02:54.638636||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 21:03:06.719990||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 21:03:07.203384||treatment||visit website||http://campaignsandelections.com||1||1
+2016-12-07 21:03:16.017509||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 21:03:16.297197||treatment||visit website||http://electionguide.org||1||1
+2016-12-07 21:03:23.444124||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 21:03:28.005206||treatment||visit website||http://e-democracy.org||1||1
+2016-12-07 21:03:30.863631||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 21:03:35.301990||treatment||visit website||http://onlinecandidate.com||1||1
+2016-12-07 21:03:38.189409||treatment||visit website||http://robodial.org||0||1
+2016-12-07 21:03:38.189483||event||progress-marker||training-end||0||1
+2016-12-07 21:03:42.627156||treatment||visit website||http://robodial.org||1||1
+2016-12-07 21:03:42.627226||event||progress-marker||training-end||1||1
+2016-12-07 21:03:43.201376||event||progress-marker||measurement-start||0||1
+2016-12-07 21:03:44.502530||event||progress-marker||measurement-start||3||0
+2016-12-07 21:03:44.543439||event||progress-marker||measurement-start||2||0
+2016-12-07 21:03:47.640070||event||progress-marker||measurement-start||1||1
+2016-12-07 21:04:01.280243||measurement||loadtime||0:00:11.772539||3||0
+2016-12-07 21:04:03.639750||measurement||loadtime||0:00:14.093107||2||0
+2016-12-07 21:04:48.222552||error||collecting ads||Error||0||1
+2016-12-07 21:04:52.664039||error||collecting ads||Error||1||1
+2016-12-07 21:05:03.352887||measurement||loadtime||0:00:05.684452||1||1
+2016-12-07 21:05:06.314423||error||collecting ads||Error||3||0
+2016-12-07 21:05:06.870459||measurement||loadtime||0:00:13.642759||0||1
+2016-12-07 21:05:08.665871||error||collecting ads||Error||2||0
+2016-12-07 21:05:13.973133||measurement||loadtime||0:00:05.618008||1||1
+2016-12-07 21:05:18.383270||measurement||loadtime||0:00:04.712638||2||0
+2016-12-07 21:05:19.483549||measurement||loadtime||0:00:07.608828||0||1
+2016-12-07 21:05:25.045011||measurement||loadtime||0:00:13.726331||3||0
+2016-12-07 21:05:27.688439||measurement||loadtime||0:00:08.711253||1||1
+2016-12-07 21:05:30.893653||measurement||loadtime||0:00:06.406070||0||1
+2016-12-07 21:05:35.391662||measurement||loadtime||0:00:05.341433||3||0
+2016-12-07 21:05:37.504477||measurement||loadtime||0:00:04.813770||1||1
+2016-12-07 21:05:40.712873||measurement||loadtime||0:00:04.814228||0||1
+2016-12-07 21:05:45.473270||measurement||loadtime||0:00:05.077484||3||0
+2016-12-07 21:05:46.980772||measurement||loadtime||0:00:04.472576||1||1
+2016-12-07 21:05:50.069139||measurement||loadtime||0:00:04.353437||0||1
+2016-12-07 21:05:55.829625||measurement||loadtime||0:00:05.354927||3||0
+2016-12-07 21:06:04.782482||measurement||loadtime||0:00:03.947878||3||0
+2016-12-07 21:06:26.976588||error||collecting ads||Error||2||0
+2016-12-07 21:06:42.315495||measurement||loadtime||0:00:10.334632||2||0
+2016-12-07 21:06:51.448094||measurement||loadtime||0:00:04.127700||2||0
+2016-12-07 21:06:52.006182||error||collecting ads||Error||1||1
+2016-12-07 21:06:55.087645||error||collecting ads||Error||0||1
+2016-12-07 21:07:05.784912||measurement||loadtime||0:00:08.774244||1||1
+2016-12-07 21:07:07.561240||measurement||loadtime||0:00:11.110268||2||0
+2016-12-07 21:07:07.845921||measurement||loadtime||0:00:07.753512||0||1
+2016-12-07 21:07:09.804233||error||collecting ads||Error||3||0
+2016-12-07 21:07:19.725658||measurement||loadtime||0:00:07.163007||2||0
+2016-12-07 21:07:19.914375||measurement||loadtime||0:00:07.063727||0||1
+2016-12-07 21:07:24.284274||measurement||loadtime||0:00:09.477437||3||0
+2016-12-07 21:07:31.329815||measurement||loadtime||0:00:06.599035||2||0
+2016-12-07 21:07:31.625016||measurement||loadtime||0:00:06.706337||0||1
+2016-12-07 21:07:31.625111||event||progress-marker||measurement-end||0||1
+2016-12-07 21:07:33.913879||measurement||loadtime||0:00:04.625780||3||0
+2016-12-07 21:07:33.913936||event||progress-marker||measurement-end||3||0
+2016-12-07 21:07:40.348815||measurement||loadtime||0:00:04.016396||2||0
+2016-12-07 21:07:40.348865||event||progress-marker||measurement-end||2||0
+2016-12-07 21:08:10.801149||error||collecting ads||Error||1||1
+2016-12-07 21:08:18.577231||measurement||loadtime||0:00:02.774913||1||1
+2016-12-07 21:08:18.577281||event||progress-marker||measurement-end||1||1
+2016-12-07 21:08:18.718439||meta||block_id end||17
+2016-12-07 21:08:18.718594||meta||block_id start||18
+2016-12-07 21:08:18.718608||meta||assignment||0@|1@|2@|3
+2016-12-07 21:08:20.346031||event||progress-marker||training-start||3||1
+2016-12-07 21:08:20.400284||event||progress-marker||training-start||0||0
+2016-12-07 21:08:20.400362||event||progress-marker||training-end||0||0
+2016-12-07 21:08:20.719054||event||progress-marker||training-start||2||1
+2016-12-07 21:08:20.831121||event||progress-marker||training-start||1||0
+2016-12-07 21:08:20.831328||event||progress-marker||training-end||1||0
+2016-12-07 21:08:37.830713||treatment||visit website||http://fairvote.org||3||1
+2016-12-07 21:08:38.617792||treatment||visit website||http://fairvote.org||2||1
+2016-12-07 21:08:45.838047||treatment||visit website||http://aceproject.org||3||1
+2016-12-07 21:08:47.260360||treatment||visit website||http://aceproject.org||2||1
+2016-12-07 21:08:53.454209||treatment||visit website||http://votenet.com||3||1
+2016-12-07 21:08:59.062627||treatment||visit website||http://votenet.com||2||1
+2016-12-07 21:09:11.549210||treatment||visit website||http://blackboxvoting.org||2||1
+2016-12-07 21:09:16.128104||treatment||visit website||http://blackboxvoting.org||3||1
+2016-12-07 21:09:19.820553||treatment||visit website||http://aristotle.com||2||1
+2016-12-07 21:09:24.535019||treatment||visit website||http://aristotle.com||3||1
+2016-12-07 21:09:29.261176||treatment||visit website||http://ifes.org||2||1
+2016-12-07 21:09:33.818715||treatment||visit website||http://ifes.org||3||1
+2016-12-07 21:09:36.461129||treatment||visit website||http://completecampaigns.com||2||1
+2016-12-07 21:09:40.774614||treatment||visit website||http://completecampaigns.com||3||1
+2016-12-07 21:09:45.240211||treatment||visit website||http://bluestatedigital.com||2||1
+2016-12-07 21:09:48.721248||treatment||visit website||http://bluestatedigital.com||3||1
+2016-12-07 21:10:03.946208||treatment||visit website||http://electoral-reform.org.uk||3||1
+2016-12-07 21:10:09.971216||treatment||visit website||http://fidlar.com||3||1
+2016-12-07 21:10:18.270105||treatment||visit website||http://electoral-reform.org.uk||2||1
+2016-12-07 21:10:20.462710||treatment||visit website||http://campaignsandelections.com||3||1
+2016-12-07 21:10:24.333164||treatment||visit website||http://fidlar.com||2||1
+2016-12-07 21:10:29.110731||treatment||visit website||http://electionguide.org||3||1
+2016-12-07 21:10:34.127092||treatment||visit website||http://campaignsandelections.com||2||1
+2016-12-07 21:10:39.408441||treatment||visit website||http://e-democracy.org||3||1
+2016-12-07 21:10:42.998517||treatment||visit website||http://electionguide.org||2||1
+2016-12-07 21:10:46.593838||treatment||visit website||http://onlinecandidate.com||3||1
+2016-12-07 21:10:53.541030||treatment||visit website||http://robodial.org||3||1
+2016-12-07 21:10:53.541101||event||progress-marker||training-end||3||1
+2016-12-07 21:10:56.618823||treatment||visit website||http://e-democracy.org||2||1
+2016-12-07 21:11:06.062597||treatment||visit website||http://onlinecandidate.com||2||1
+2016-12-07 21:11:13.907545||treatment||visit website||http://robodial.org||2||1
+2016-12-07 21:11:13.907631||event||progress-marker||training-end||2||1
+2016-12-07 21:11:15.690532||event||progress-marker||measurement-start||0||0
+2016-12-07 21:11:16.109659||event||progress-marker||measurement-start||1||0
+2016-12-07 21:11:18.587059||event||progress-marker||measurement-start||3||1
+2016-12-07 21:11:18.919888||event||progress-marker||measurement-start||2||1
+2016-12-07 21:12:20.719457||error||collecting ads||Error||0||0
+2016-12-07 21:12:21.132564||error||collecting ads||Error||1||0
+2016-12-07 21:12:23.610270||error||collecting ads||Error||3||1
+2016-12-07 21:12:23.951577||error||collecting ads||Error||2||1
+2016-12-07 21:12:35.573093||measurement||loadtime||0:00:09.850291||0||0
+2016-12-07 21:12:37.221576||measurement||loadtime||0:00:11.086922||1||0
+2016-12-07 21:12:38.172491||measurement||ad||2016-12-07 21:12:38.061633@|Why Invest In Commodities@|claimrating.com@|Invest Assets In The Right Index Funds! Learn About Investment Services  Commodities. ||2||1
+2016-12-07 21:12:38.336386||measurement||loadtime||0:00:09.381447||2||1
+2016-12-07 21:12:43.283818||measurement||loadtime||0:00:14.669130||3||1
+2016-12-07 21:12:51.050182||measurement||loadtime||0:00:08.823482||1||0
+2016-12-07 21:12:53.053461||measurement||loadtime||0:00:04.764420||3||1
+2016-12-07 21:12:57.382378||measurement||loadtime||0:00:14.043687||2||1
+2016-12-07 21:13:06.269070||measurement||loadtime||0:00:08.211105||3||1
+2016-12-07 21:13:06.929199||measurement||ad||2016-12-07 21:13:06.612091@|Why Invest In Commodities@|claimrating.com@|Invest Assets In The Right Index Funds! Learn About Investment Services  Commodities. ||2||1
+2016-12-07 21:13:07.037262||measurement||loadtime||0:00:04.650625||2||1
+2016-12-07 21:13:07.376436||measurement||loadtime||0:00:11.321314||1||0
+2016-12-07 21:13:18.199460||measurement||loadtime||0:00:05.818995||1||0
+2016-12-07 21:13:18.230541||measurement||ad||2016-12-07 21:13:17.749456@|Why Invest In Commodities@|claimrating.com@|Invest Assets In The Right Index Funds! Learn About Investment Services  Commodities. ||2||1
+2016-12-07 21:13:18.387516||measurement||loadtime||0:00:06.348845||2||1
+2016-12-07 21:13:40.612220||error||collecting ads||Error||0||0
+2016-12-07 21:13:51.194982||measurement||ad||2016-12-07 21:13:50.891365@|Are You Eligible for Aid?@|www.americanhoperesources.com@|Low Income Resource for US Citizens Suffering from Financial Hardship||0||0
+2016-12-07 21:13:51.195119||measurement||loadtime||0:00:05.577720||0||0
+2016-12-07 21:14:04.537429||measurement||loadtime||0:00:08.338765||0||0
+2016-12-07 21:14:11.289145||error||collecting ads||Error||3||1
+2016-12-07 21:14:17.882652||measurement||loadtime||0:00:08.344132||0||0
+2016-12-07 21:14:20.420740||measurement||loadtime||0:00:04.128140||3||1
+2016-12-07 21:14:23.214546||error||collecting ads||Error||1||0
+2016-12-07 21:14:23.419979||error||collecting ads||Error||2||1
+2016-12-07 21:14:27.151823||measurement||loadtime||0:00:04.264045||0||0
+2016-12-07 21:14:32.408181||measurement||loadtime||0:00:06.982385||3||1
+2016-12-07 21:14:35.668664||measurement||loadtime||0:00:03.512190||0||0
+2016-12-07 21:14:36.437555||measurement||loadtime||0:00:08.014908||2||1
+2016-12-07 21:14:41.133457||measurement||loadtime||0:00:03.723145||3||1
+2016-12-07 21:14:45.374252||measurement||loadtime||0:00:04.701855||0||0
+2016-12-07 21:14:49.222563||measurement||loadtime||0:00:07.779871||2||1
+2016-12-07 21:14:52.049426||measurement||loadtime||0:00:05.910846||3||1
+2016-12-07 21:14:58.578052||measurement||ad||2016-12-07 21:14:58.334409@|Are You Eligible for Aid?@|www.americanhoperesources.com@|Low Income Resource for US Citizens Suffering from Financial Hardship||0||0
+2016-12-07 21:14:58.669931||measurement||loadtime||0:00:08.291365||0||0
+2016-12-07 21:14:58.669979||event||progress-marker||measurement-end||0||0
+2016-12-07 21:15:04.629956||measurement||loadtime||0:00:10.405560||2||1
+2016-12-07 21:15:06.651060||measurement||loadtime||0:00:09.597104||3||1
+2016-12-07 21:15:06.651104||event||progress-marker||measurement-end||3||1
+2016-12-07 21:15:20.068322||measurement||loadtime||0:00:10.433773||2||1
+2016-12-07 21:15:20.068386||event||progress-marker||measurement-end||2||1
+2016-12-07 21:15:28.225061||error||collecting ads||Error||1||0
+2016-12-07 21:16:33.233747||error||collecting ads||Error||1||0
+2016-12-07 21:17:38.242650||error||collecting ads||Error||1||0
+2016-12-07 21:18:43.252930||error||collecting ads||Error||1||0
+2016-12-07 21:18:43.252993||event||progress-marker||measurement-end||1||0
+2016-12-07 21:18:43.347604||meta||block_id end||18
+2016-12-07 21:18:43.347730||meta||block_id start||19
+2016-12-07 21:18:43.347743||meta||assignment||3@|2@|1@|0
+2016-12-07 21:18:45.240912||event||progress-marker||training-start||3||0
+2016-12-07 21:18:45.240996||event||progress-marker||training-end||3||0
+2016-12-07 21:18:45.269904||event||progress-marker||training-start||1||1
+2016-12-07 21:18:45.336487||event||progress-marker||training-start||0||1
+2016-12-07 21:18:45.397960||event||progress-marker||training-start||2||0
+2016-12-07 21:18:45.398037||event||progress-marker||training-end||2||0
+2016-12-07 21:19:00.430667||treatment||visit website||http://fairvote.org||1||1
+2016-12-07 21:19:02.832414||treatment||visit website||http://fairvote.org||0||1
+2016-12-07 21:19:08.346646||treatment||visit website||http://aceproject.org||1||1
+2016-12-07 21:19:10.808858||treatment||visit website||http://aceproject.org||0||1
+2016-12-07 21:19:16.064485||treatment||visit website||http://votenet.com||1||1
+2016-12-07 21:19:18.100146||treatment||visit website||http://votenet.com||0||1
+2016-12-07 21:19:24.916043||treatment||visit website||http://blackboxvoting.org||1||1
+2016-12-07 21:19:27.095186||treatment||visit website||http://blackboxvoting.org||0||1
+2016-12-07 21:19:33.386374||treatment||visit website||http://aristotle.com||1||1
+2016-12-07 21:19:35.710417||treatment||visit website||http://aristotle.com||0||1
+2016-12-07 21:19:45.660661||treatment||visit website||http://ifes.org||1||1
+2016-12-07 21:19:48.006678||treatment||visit website||http://ifes.org||0||1
+2016-12-07 21:19:52.766671||treatment||visit website||http://completecampaigns.com||1||1
+2016-12-07 21:19:55.070648||treatment||visit website||http://completecampaigns.com||0||1
+2016-12-07 21:20:02.460233||treatment||visit website||http://bluestatedigital.com||1||1
+2016-12-07 21:20:07.978984||treatment||visit website||http://bluestatedigital.com||0||1
+2016-12-07 21:20:16.946923||treatment||visit website||http://electoral-reform.org.uk||1||1
+2016-12-07 21:20:22.558649||treatment||visit website||http://electoral-reform.org.uk||0||1
+2016-12-07 21:20:23.466671||treatment||visit website||http://fidlar.com||1||1
+2016-12-07 21:20:29.771279||treatment||visit website||http://fidlar.com||0||1
+2016-12-07 21:20:33.438649||treatment||visit website||http://campaignsandelections.com||1||1
+2016-12-07 21:20:40.444552||treatment||visit website||http://campaignsandelections.com||0||1
+2016-12-07 21:20:43.750667||treatment||visit website||http://electionguide.org||1||1
+2016-12-07 21:20:49.107110||treatment||visit website||http://electionguide.org||0||1
+2016-12-07 21:20:51.871301||treatment||visit website||http://e-democracy.org||1||1
+2016-12-07 21:20:59.514876||treatment||visit website||http://e-democracy.org||0||1
+2016-12-07 21:20:59.881132||treatment||visit website||http://onlinecandidate.com||1||1
+2016-12-07 21:21:07.459460||treatment||visit website||http://onlinecandidate.com||0||1
+2016-12-07 21:21:12.080234||treatment||visit website||http://robodial.org||1||1
+2016-12-07 21:21:12.080305||event||progress-marker||training-end||1||1
+2016-12-07 21:21:14.310807||treatment||visit website||http://robodial.org||0||1
+2016-12-07 21:21:14.310931||event||progress-marker||training-end||0||1
+2016-12-07 21:21:15.582410||event||progress-marker||measurement-start||3||0
+2016-12-07 21:21:15.680581||event||progress-marker||measurement-start||2||0
+2016-12-07 21:21:17.093617||event||progress-marker||measurement-start||1||1
+2016-12-07 21:21:19.329194||event||progress-marker||measurement-start||0||1
+2016-12-07 21:22:20.606857||error||collecting ads||Error||3||0
+2016-12-07 21:22:20.723150||error||collecting ads||Error||2||0
+2016-12-07 21:22:22.120375||error||collecting ads||Error||1||1
+2016-12-07 21:22:24.350856||error||collecting ads||Error||0||1
+2016-12-07 21:22:37.312535||measurement||loadtime||0:00:11.703130||3||0
+2016-12-07 21:23:25.778895||error||collecting ads||Error||2||0
+2016-12-07 21:23:27.142979||error||collecting ads||Error||1||1
+2016-12-07 21:23:29.374810||error||collecting ads||Error||0||1
+2016-12-07 21:23:39.010284||measurement||loadtime||0:00:08.227438||2||0
+2016-12-07 21:23:42.344692||error||collecting ads||Error||3||0
+2016-12-07 21:23:42.378833||measurement||loadtime||0:00:07.999986||0||1
+2016-12-07 21:23:43.363027||measurement||loadtime||0:00:11.216344||1||1
+2016-12-07 21:23:55.992536||measurement||loadtime||0:00:08.643030||3||0
+2016-12-07 21:23:58.046136||measurement||loadtime||0:00:09.679362||1||1
+2016-12-07 21:24:07.927559||measurement||ad||2016-12-07 21:24:07.751957@|Ditch Your Bank Account@|rickards-strategic-intelligence.com@|Former CIA Advisor Jim Rickards Warns Retired Citizens - Info Here.||1||1
+2016-12-07 21:24:08.221153||measurement||loadtime||0:00:05.170062||1||1
+2016-12-07 21:24:18.043641||measurement||loadtime||0:00:04.819334||1||1
+2016-12-07 21:24:26.880394||measurement||loadtime||0:00:03.832228||1||1
+2016-12-07 21:24:41.570536||measurement||ad||2016-12-07 21:24:41.469332@|Ditch Your Bank Account@|rickards-strategic-intelligence.com@|Former CIA Advisor Jim Rickards Warns Retired Citizens - Info Here.||1||1
+2016-12-07 21:24:41.727755||measurement||loadtime||0:00:09.842520||1||1
+2016-12-07 21:24:44.036302||error||collecting ads||Error||2||0
+2016-12-07 21:24:47.396624||error||collecting ads||Error||0||1
+2016-12-07 21:24:53.209054||measurement||ad||2016-12-07 21:24:52.837981@|Are You Eligible for Aid?@|www.americanhoperesources.com@|Low Income Resource for US Citizens Suffering from Financial Hardship||2||0
+2016-12-07 21:24:53.209143||measurement||loadtime||0:00:04.168683||2||0
+2016-12-07 21:24:54.358101||measurement||loadtime||0:00:07.628432||1||1
+2016-12-07 21:25:01.016829||error||collecting ads||Error||3||0
+2016-12-07 21:25:07.501170||measurement||loadtime||0:00:09.287620||2||0
+2016-12-07 21:25:07.881563||measurement||ad||2016-12-07 21:25:07.730297@|Ditch Your Bank Account@|rickards-strategic-intelligence.com@|Former CIA Advisor Jim Rickards Warns Retired Citizens - Info Here.||1||1
+2016-12-07 21:25:08.140351||measurement||loadtime||0:00:08.777692||1||1
+2016-12-07 21:25:08.140414||event||progress-marker||measurement-end||1||1
+2016-12-07 21:25:10.712028||measurement||loadtime||0:00:04.691191||3||0
+2016-12-07 21:25:15.253417||measurement||loadtime||0:00:02.747110||2||0
+2016-12-07 21:25:22.408143||measurement||loadtime||0:00:06.692800||3||0
+2016-12-07 21:25:23.517373||measurement||loadtime||0:00:03.263499||2||0
+2016-12-07 21:25:35.530731||measurement||loadtime||0:00:08.119927||3||0
+2016-12-07 21:25:35.815462||measurement||loadtime||0:00:07.296620||2||0
+2016-12-07 21:25:45.576700||measurement||loadtime||0:00:04.757991||2||0
+2016-12-07 21:25:45.576770||event||progress-marker||measurement-end||2||0
+2016-12-07 21:25:48.799283||measurement||loadtime||0:00:08.264601||3||0
+2016-12-07 21:25:52.408593||error||collecting ads||Error||0||1
+2016-12-07 21:25:59.693494||measurement||loadtime||0:00:05.892935||3||0
+2016-12-07 21:25:59.693549||event||progress-marker||measurement-end||3||0
+2016-12-07 21:26:57.418862||error||collecting ads||Error||0||1
+2016-12-07 21:28:02.430545||error||collecting ads||Error||0||1
+2016-12-07 21:29:07.440151||error||collecting ads||Error||0||1
+2016-12-07 21:30:12.450447||error||collecting ads||Error||0||1
+2016-12-07 21:31:17.459981||error||collecting ads||Error||0||1
+2016-12-07 21:31:17.460035||event||progress-marker||measurement-end||0||1
+2016-12-07 21:31:17.590079||meta||block_id end||19
