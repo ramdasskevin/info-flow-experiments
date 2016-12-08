@@ -39,7 +39,7 @@ elector
 electorate
 enrolment
 executive
-estate
+state
 liberal
 liberalism
 lobbyist
@@ -49,7 +49,6 @@ justice
 parliament
 platform
 politico
-poll
 populism
 politician
 poverty
